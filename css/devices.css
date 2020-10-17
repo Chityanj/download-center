@@ -1,0 +1,262 @@
+#google {
+  columns: 3;
+  width: 100%;
+}
+#leeco {
+  columns: 3;
+  width: 100%;
+}
+#lenovo {
+  columns: 3;
+  width: 100%;
+}
+#motorola {
+  columns: 3;
+}
+#oneplus {
+  columns: 3;
+  width: 100%;
+}
+#realme {
+  columns: 3;
+  width: 100%;
+}
+
+#xiaomi {
+  columns: 3;
+  width: 100%;
+ 
+}
+@media only screen and (max-width: 800px) {
+  #xiaomi {
+    columns: 1;
+   width: 100%;
+  }
+}
+@media only screen and (max-width: 800px) {
+  #google {
+    columns: 1;
+   width: 100%;
+  }
+}
+@media only screen and (max-width: 800px) {
+  #oneplus {
+    columns: 1;
+   width: 100%;
+  }
+}
+@media only screen and (max-width: 800px) {
+  #leeco {
+    columns: 1;
+   width: 100%;
+  }
+}
+@media only screen and (max-width: 800px) {
+  #lenovo {
+    columns: 1;
+   width: 100%;
+  }
+}
+@media only screen and (max-width: 800px) {
+  #motorola {
+    columns: 1;
+   width: 100%;
+  }
+}
+@media only screen and (max-width: 800px) {
+  #realme {
+    columns: 1;
+   width: 100%;
+  }
+}
+
+#google section {
+  width: 100%;
+  display: inline-block;
+  border-radius: 14px;
+  color: var(--text-color);
+  border: 3px solid rgb(0, 0, 0, 0.04);
+  box-shadow: 0px 0px 0px rgb(0, 0, 0, 0);
+  transition: 0.4s ease-in-out;
+  transform: scale(1);
+  padding: 0px;
+  margin: 5% 0;
+  text-align: center;
+}
+#leeco section {
+  width: 100%;
+  display: inline-block;
+  border-radius: 14px;
+  color: var(--text-color);
+  border: 3px solid rgb(0, 0, 0, 0.04);
+  box-shadow: 0px 0px 0px rgb(0, 0, 0, 0);
+  transition: 0.4s ease-in-out;
+  transform: scale(1);
+  padding: 0px;
+  margin: 5% 0;
+  text-align: center;
+}
+#lenovo section {
+  width: 100%;
+  display: inline-block;
+  border-radius: 14px;
+  color: var(--text-color);
+  border: 3px solid rgb(0, 0, 0, 0.04);
+  box-shadow: 0px 0px 0px rgb(0, 0, 0, 0);
+  transition: 0.4s ease-in-out;
+  transform: scale(1);
+  padding: 0px;
+  margin: 5% 0;
+  text-align: center;
+}
+#motorola section {
+  width: 100%;
+  display: inline-block;
+  border-radius: 14px;
+  color: var(--text-color);
+  border: 3px solid rgb(0, 0, 0, 0.04);
+  box-shadow: 0px 0px 0px rgb(0, 0, 0, 0);
+  transition: 0.4s ease-in-out;
+  transform: scale(1);
+  padding: 0px;
+  margin: 5% 0;
+  text-align: center;
+}
+#oneplus section {
+  width: 100%;
+  display: inline-block;
+  border-radius: 14px;
+  color: var(--text-color);
+  border: 3px solid rgb(0, 0, 0, 0.04);
+  box-shadow: 0px 0px 0px rgb(0, 0, 0, 0);
+  transition: 0.4s ease-in-out;
+  transform: scale(1);
+  padding: 0px;
+  margin: 5% 0;
+  text-align: center;
+}
+#realme section {
+  width: 100%;
+  display: inline-block;
+  border-radius: 14px;
+  color: var(--text-color);
+  border: 3px solid rgb(0, 0, 0, 0.04);
+  box-shadow: 0px 0px 0px rgb(0, 0, 0, 0);
+  transition: 0.4s ease-in-out;
+  transform: scale(1);
+  padding: 0px;
+  margin: 5% 0;
+  text-align: center;
+}
+#xiaomi section {
+  width: 100%;
+  display: inline-block;
+  border-radius: 14px;
+  color: var(--text-color);
+  border: 3px solid rgb(0, 0, 0, 0.04);
+  box-shadow: 0px 0px 0px rgb(0, 0, 0, 0);
+  transition: 0.4s ease-in-out;
+  transform: scale(1);
+  padding: 0px;
+  margin: 5% 0;
+  text-align: center;
+}
+#google section img {
+  width: auto;
+  height: 300px;
+  border-radius: 5px 5px 0px 0px;
+}
+#leeco section img {
+  width: auto;
+  height: 300px;
+  border-radius: 5px 5px 0px 0px;
+}
+#motorola section img {
+ width: auto;
+  height: 300px;
+  border-radius: 5px 5px 0px 0px;
+}
+#lenovo section img {
+  width: auto;
+  height: 300px;
+  border-radius: 5px 5px 0px 0px;
+}
+#oneplus section img {
+  width: auto;
+  height: 300px;
+  border-radius: 5px 5px 0px 0px;
+}
+#realme section img {
+  width: auto;
+  height: 300px;
+  border-radius: 5px 5px 0px 0px;
+}
+#xiaomi section img {
+  width: auto;
+  height: 300px;
+  border-radius: 5px 5px 0px 0px;
+}
+.blog_container {
+  padding: 2.5vh 5%;
+}
+
+#xiaomi section:hover {
+  cursor: pointer;
+  border: 1px solid rgb(0, 0, 0, 0);
+  box-shadow: 0px 15px 35px rgb(0, 0, 0, 0.06);
+  transform: scale(1.03);
+}
+#leeco section:hover {
+  cursor: pointer;
+  border: 1px solid rgb(0, 0, 0, 0);
+  box-shadow: 0px 15px 35px rgb(0, 0, 0, 0.06);
+  transform: scale(1.03);
+}
+#lenovo section:hover {
+  cursor: pointer;
+  border: 1px solid rgb(0, 0, 0, 0);
+  box-shadow: 0px 15px 35px rgb(0, 0, 0, 0.06);
+  transform: scale(1.03);
+}
+#motorola section:hover {
+  cursor: pointer;
+  border: 1px solid rgb(0, 0, 0, 0);
+  box-shadow: 0px 15px 35px rgb(0, 0, 0, 0.06);
+  transform: scale(1.03);
+}
+#oneplus section:hover {
+  cursor: pointer;
+  border: 1px solid rgb(0, 0, 0, 0);
+  box-shadow: 0px 15px 35px rgb(0, 0, 0, 0.06);
+  transform: scale(1.03);
+}
+#realme section:hover {
+  cursor: pointer;
+  border: 1px solid rgb(0, 0, 0, 0);
+  box-shadow: 0px 15px 35px rgb(0, 0, 0, 0.06);
+  transform: scale(1.03);
+}
+#google section:hover {
+  cursor: pointer;
+  border: 1px solid rgb(0, 0, 0, 0);
+  box-shadow: 0px 15px 35px rgb(0, 0, 0, 0.06);
+  transform: scale(1.03);
+}
+.section_title {
+  font-size: 21px;
+  text-align: center;
+  margin: 2vh 0px;
+  font-weight: bold;
+  margin: 1vh 0px;
+  padding: 0px 1px;
+  font-family: urbanist;
+  color: rgb(0,0,0);
+}
+
+.about_section {
+  font-family: urbanist;
+  font-size: 16px;
+  margin: 2vh 0px;
+  text-align: center;
+  color: rgb(0,0,0);
+}
