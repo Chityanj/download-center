@@ -152,7 +152,7 @@ document.getElementById('iframe_id').height=window.frames["iframe_name"].documen
 } 
 </script> 
 	   
-	   <iframe src="device.html"></iframe>
+	   <iframe width=100% height=100% id="sizeframe" name="sizeframe" src="device.html" scrolling="no" frameborder="yes" onload=resize_iframe()></iframe>
       <script>
         <script src="https://cdn.jsdelivr.net/npm/docsify@4.11.6/lib/docsify.min.js"></script>
       <div class="progress" style="opacity: 0; width: 0%;"></div>
