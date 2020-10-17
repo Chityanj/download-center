@@ -1,3 +1,13 @@
+<script type="text/javascript"> 
+
+moz=document.getElementById&&!document.all 
+mozHeightOffset=20 
+
+function resize_iframe(){ 
+document.getElementById("sizeframe").height=100 // required for Moz bug, value can be "", null, or integer 
+document.getElementById('iframe_id').height=window.frames["iframe_name"].document.body.scrollHeight+(moz?mozHeightOffset:0) 
+} 
+</script> 
 <main>
          <button class="sidebar-toggle" aria-label="Menu">
             <div class="sidebar-toggle-button"><span></span><span></span><span></span></div>
