@@ -38,9 +38,6 @@
 	box-sizing: border-box
 }
 
-body:not(.ready) {
-	overflow: hidden
-}
 
 body:not(.ready) .app-nav,
 body:not(.ready)>nav,
