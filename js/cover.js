@@ -12,7 +12,6 @@
     return (
       "<section class=\"cover show\" style=\"background: " + bgc + "\">" +
       '<div class="mask"></div>' +
-      '<div class="cover-main"><!--cover--></div>' +
-      '</section>'
+      '<div class="cover-main">' +
     );
   }
