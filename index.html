@@ -13,6 +13,7 @@
       <script src="js/jquery-3.5.1.js"></script>
       <script src="js/devices.js"></script>
       <script src="js/page.js"></script>
+      <script src="js/sidebar.js"></script>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
@@ -160,59 +161,48 @@
             <h1 class="app-name"><a class="app-name-link" data-nosearch="" href="/">devices</a></h1>
             <div class="sidebar-nav">
                <ul>
-                  <li>
-                     <p>Google</p>
-                     <ul>
-                        <li><a href="#/download/taimen/" title="Pixel 2 XL">Pixel 2 XL</a></li>
-                     </ul>
-                  </li>
-               </ul>
-               <ul>
-                  <li>
-                     <p>Lenovo</p>
-                     <ul>
-                        <li><a href="#/download/zippo/" title="Lenovo Z6 Pro">Lenovo Z6 Pro</a> </li>
-                     </ul>
-                  </li>
-                  <li>
-                     <p>Moto</p>
-                     <ul>
-                        <li><a href="#/download/ali/" title="Motorola Moto G6">Motorola Moto G6</a> </li>
-                     </ul>
-                  </li>
-                  <li>
-                     <p>Oneplus</p>
-                     <ul>
-                        <li><a href="#/download/oneplus3/" title="Oneplus 3">Oneplus 3</a></li>
-                        <li><a href="#/download/enchilida/" title="Oneplus 6">Oneplus 6</a></li>
-                     </ul>
-                  </li>
-                  <li>
-                     <p>Xiaomi</p>
-                     <ul>
-                        <li><a href="#/download/tulip/" title="Xiaomi Redmi Note 6 Pro">Xiaomi Redmi Note 6 Pro</a></li>
-                        <li><a href="#/download/dipper/" title="Xiaomi MI 8">Xiaomi MI 8</a></li>
-                        <li><a href="#/download/chiron/" title="Xiaomi MI Mix 2">Xiaomi MI Mix 2</a></li>
-                        <li><a href="#/download/platina/" title="Xiaomi MI 8 Lite">Xiaomi MI 8 Lite</a></li>
-                        <li><a href="#/download/rosy/" title="Xiaomi Redmi 5">Xiaomi Redmi 5</a></li>
-                        <li><a href="#/download/whyred/" title="Xiaomi Redmi Note 5 Pro">Xiaomi Redmi Note 5 Pro</a></li>
-                        <li><a href="#/download/tissot/" title="Xiaomi Mi A1">Xiaomi Mi A1</a>  </li>
-                        <li><a href="#/download/lavender/" title="Xiaomi Redmi Note 7">Xiaomi Redmi Note 7 </a></li>
-                        <li><a href="#/download/cepheus/" title="Xiaomi Mi 9">Xiaomi Mi 9</a></li>
-                        <li><a href="#/download/rolex/" title="Xiaomi Redmi 4A">Xiaomi Redmi 4A</a></li>
-                        <li><a href="#/download/santoni/" title="Xiaomi Redmi 4/4x">Xiaomi Redmi 4/4x</a></li>
-                        <li><a href="#/download/ysl/" title="Xiaomi Redmi S2">Xiaomi Redmi S2 </a></li>
-                        <li><a href="#/download/mido/" title="Xiaomi Redmi Note 4X">Xiaomi Redmi Note 4X</a>  </li>
-                        <li>[Xiaomi Redmi Note 8] (download/ginkgo/)</li>
-                        <li><a href="#/download/beryllium/" title="Poco F1">Poco F1</a></li>
-                        <li><a href="#/download/riva/" title="Xiaomi Redmi 5A">Xiaomi Redmi 5A</a></li>
-                        <li><a href="#/download/phoenix/" title="Poco X2">Poco X2</a></li>
-                        <li><a href="#/download/vince/" title="Xiaomi Redmi 5 Plus">Xiaomi Redmi 5 Plus</a></li>
-                        <li><a href="#/download/raphael/" title="Xiaomi Mi 9T Pro (Redmi K20Pro)">Xiaomi Mi 9T Pro (Redmi K20Pro)</a></li>
-                        <li><a href="#/download/davinci/" title="Xiaomi Mi 9T (Redmi K20)">Xiaomi Mi 9T (Redmi K20)</a></li>
-                     </ul>
-                  </li>
-               </ul>
+   <li>
+      <p>Google</p>
+      <ul>
+         <div id=googleslider></div>
+      </ul>
+   </li>
+   <li>
+      <p>LeEco</p>
+      <ul>
+         <div id=leecoslider></div>
+      </ul>
+   </li>
+   <li>
+      <p>Lenovo</p>
+      <ul>
+         <div id=lenovoslider></div>
+      </ul>
+   </li>
+   <li>
+      <p>Moto</p>
+      <ul>
+         <div id=motorolaslider></div>
+      </ul>
+   </li>
+   <li>
+      <p>Oneplus</p>
+      <ul>
+         <div id=oneplusslider></div>
+      </ul>
+   </li>
+   <li>
+      <p>Xiaomi</p>
+      <ul>
+         <div id=xiaomislider></div>
+      </ul>
+      <li>
+      <p>Xiaomi</p>
+      <ul>
+         <div id=realmeslider></div>
+      </ul>
+   </li>
+</ul>
             </div>
          </aside>
          <section class="content">
