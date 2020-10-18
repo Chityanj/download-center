@@ -102,89 +102,11 @@
          .app-name.hide, .sidebar-nav.hide {
          display: none;
          }
-	      .content-section {
-  min-height: 2000px;
-}
-.sidebar-section {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-}
-
-
-.sidebar-item {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	
-	/* Position the items */
-	// &:nth-child(2) { top: 25%; }
-	// &:nth-child(3) { top: 50%; }
-	// &:nth-child(4) { top: 75%; }
-}
-
-
-.make-me-sticky {
-  position: -webkit-sticky;
-	position: sticky;
-	top: 0;
-    
-  padding: 0 15px;
-}
-
-
-
-/* Ignore This, just coloring */
-body {
-  background: #fff;
-}
-
-article {
-  background: #f1f1f1;
-  border-radius: 12px;
-  padding: 25px 0 600px;
-}
-
-
-.title-section, .content-section, .sidebar-section {
-  background: #fff;
-  // border-radius: 12px;
-  // border: solid 10px #f1f1f1; 
-}
-
-.title-section {
-  text-align: center;
-  padding: 50px 15px;
-  margin-bottom: 30px;
-}
-
-.content-section h2 {
-  text-align: center;
-  margin: 0;
-  padding-top: 200px;
-}
-
-.sidebar-item {
-  text-align: center;
-  
-  h3 {
-    background: gold;
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 50px 0 100px; 
-    border-bottom: solid 1px #fff;
-  }
-}
       </style>
    </head>
-   <body>
-	   
+   <body data-page="README.md" class="ready">
       <nav class="app-nav no-badge"></nav>
-	    
-      <section class="cover show" style="background: linear-gradient(to left bottom, hsl(242, 100%, 85%) 0%,hsl(9, 100%, 85%) 100%)">
-	      
+      <section class="cover show" style="background: linear-gradient(to left bottom, hsl(224, 100%, 85%) 0%,hsl(80, 100%, 85%) 100%)">
          <div class="mask"></div>
          <div class="cover-main">
             <h1 id="revengeos-downloads"><a href="#/?id=revengeos-downloads" data-id="revengeos-downloads" class="anchor"><span>RevengeOS | Downloads</span></a></h1>
@@ -216,15 +138,8 @@ article {
                </div>
             </div>
          </div>
-	      
       </section>
- 
-	<main>
-	<div class="row">
-           <div class="col-5">
-
-              <div class="sidebar-item">
-                <div class="make-me-sticky">
+      <main>
          <button class="sidebar-toggle" aria-label="Menu">
             <div class="sidebar-toggle-button"><span></span><span></span><span></span></div>
          </button>
@@ -251,12 +166,8 @@ article {
                         <li><a href="#/download/taimen/" title="Pixel 2 XL">Pixel 2 XL</a></li>
                      </ul>
                   </li>
-                  <li>
-                     <p>LeEco</p>
-                     <ul>
-                        <li><a href="#/download/x2/" title="LeEco Le Max 2">LeEco Le Max 2</a></li>
-                     </ul>
-                  </li>
+               </ul>
+               <ul>
                   <li>
                      <p>Lenovo</p>
                      <ul>
@@ -304,299 +215,27 @@ article {
                </ul>
             </div>
          </aside>
-		</div>
-              </div>
-		</div>
-            <div class="col-7">
-
-                <div class="content-section">   
          <section class="content">
             <article id="main" class="markdown-section">
                <p><a href="#/README"></a></p>
                <h1>Google</h1>
-               <div id="google">
-                  <a href="#/download/taimen/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/taimen.png">
-                        <div class="blog_container">
-                           <div class="section_title">Pixel 2 XL</div>
-                           <div class="about_section">
-                              Yomatsun
-                           </div>
-                        </div>
-                     </section>
-                  </a>
-               </div>
+               <div id="google"></div>
                <h1>LeEco</h1>
-               <div id="leeco">
-                  <a href="#/download/x2/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/x2.png">
-                        <div class="blog_container">
-                           <div class="section_title">LeEco Le Max 2</div>
-                           <div class="about_section">
-                              Zhenxiang Chen
-                           </div>
-                        </div>
-                     </section>
-                  </a>
-               </div>
+               <div id="leeco"></div>
                <h1>Lenovo</h1>
-               <div id="lenovo">
-                  <a href="#/download/zippo/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/zippo.png">
-                        <div class="blog_container">
-                           <div class="section_title">Lenovo Z6 Pro</div>
-                           <div class="about_section">
-                              Zhenxiang Chen
-                           </div>
-                        </div>
-                     </section>
-                  </a>
-               </div>
+               <div id="lenovo"></div>
                <h1>Moto</h1>
-               <div id="motorola">
-                  <a href="#/download/ali/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/ali.png">
-                        <div class="blog_container">
-                           <div class="section_title">Motorola Moto G6</div>
-                           <div class="about_section">
-                              Electimon
-                           </div>
-                        </div>
-                     </section>
-                  </a>
-               </div>
+               <div id="motorola"></div>
                <h1>Oneplus</h1>
-               <div id="oneplus">
-                  <a href="#/download/enchilada/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/enchilada.png">
-                        <div class="blog_container">
-                           <div class="section_title">OnePlus6</div>
-                           <div class="about_section">coderastic</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/oneplus3/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/oneplus3.png">
-                        <div class="blog_container">
-                           <div class="section_title">OnePlus3</div>
-                           <div class="about_section">ajithzres</div>
-                        </div>
-                     </section>
-                  </a>
-               </div>
+               <div id="oneplus"></div>
                <h1>Xiaomi</h1>
-               <div id="xiaomi">
-                  <a href="#/download/tulip/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/tulip.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi Note 6 Pro</div>
-                           <div class="about_section">Naomi Calabretta</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/dipper/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/dipper.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi MI 8</div>
-                           <div class="about_section">Ethan Halsall</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/chiron/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/chiron.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi MI Mix 2</div>
-                           <div class="about_section">Andrey S. Shidakov</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/platina/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/platina.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi MI 8 Lite</div>
-                           <div class="about_section">Lunarixus</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/rosy/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/rosy.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi 5</div>
-                           <div class="about_section">PratyakshM</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/whyred/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/whyred.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi Note 5 Pro</div>
-                           <div class="about_section">SebaUbuntu</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/tissot/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/tissot.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Mi A1</div>
-                           <div class="about_section">Giovix92</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/lavender/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/lavender.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi Note 7</div>
-                           <div class="about_section">Raiyan Shishir</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/cepheus/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/cepheus.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Mi 9</div>
-                           <div class="about_section">Giovix92</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/rolex/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/rolex.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi 4A</div>
-                           <div class="about_section">Nick</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/santoni/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/santoni.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi 4/4x</div>
-                           <div class="about_section">Arth Doshi</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/ysl/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/ysl.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi S2</div>
-                           <div class="about_section">Giovanni Ricca</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/mido/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/mido.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi Note 4X</div>
-                           <div class="about_section">Smokey</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/ginkgo/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/ginkgo.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi Note 8</div>
-                           <div class="about_section">Introdructor</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/beryllium/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/beryllium.png">
-                        <div class="blog_container">
-                           <div class="section_title">Poco F1</div>
-                           <div class="about_section">Deadpool1704</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/riva/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/riva.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi 5A</div>
-                           <div class="about_section">Anggi Al Ansori</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/phoenix/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/phoenix.png">
-                        <div class="blog_container">
-                           <div class="section_title">Poco X2</div>
-                           <div class="about_section">HaroonHarish</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/vince/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/vince.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Redmi 5 Plus</div>
-                           <div class="about_section">Starlight</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/raphael/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/raphael.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Mi 9T Pro (Redmi K20Pro)</div>
-                           <div class="about_section">szradev</div>
-                        </div>
-                     </section>
-                  </a>
-                  <a href="#/download/davinci/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/davinci.png">
-                        <div class="blog_container">
-                           <div class="section_title">Xiaomi Mi 9T (Redmi K20)</div>
-                           <div class="about_section">vansh</div>
-                        </div>
-                     </section>
-                  </a>
-               </div>
+               <div id="xiaomi"></div>
                <h1>Realme</h1>
-               <div id="realme">
-                  <a href="#/download/RMX1921/">
-                     <section>
-                        <img src="https://wiki.lineageos.org/images/devices/RMX1921.png">
-                        <div class="blog_container">
-                           <div class="section_title">Realme XT</div>
-                           <div class="about_section">
-                              Kader Bava
-                           </div>
-                        </div>
-                     </section>
-                  </a>
-               </div>
+               <div id="realme"></div>
                <hr>
             </article>
-		 </div>
-            </div>
-           
-        </div>
-    </div>
          </section>
-      </main>   
-	  
+      </main>
       <div class="progress" style="opacity: 0; width: 0%;"></div>
       <script async="" src="https://www.google-analytics.com/analytics.js"></script>
    </body>
