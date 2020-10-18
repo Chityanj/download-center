@@ -5,7 +5,7 @@
       "hsl(" + (Math.floor(Math.random() * 255) + SL) + ") 0%," +
       "hsl(" + (Math.floor(Math.random() * 255) + SL) + ") 100%)";
   
-  document.getElementById("container").style.background = bgc;
+  document.getElementById("coverbg").style.background = bgc;
   
   
 }
