@@ -10,6 +10,6 @@
       "hsl(" + (Math.floor(Math.random() * 255) + SL) + ") 100%)";
 
     return (
-      "style=\"background: " + bgc + "\"
+      "style=\"background: " + bgc""
     );
   }
