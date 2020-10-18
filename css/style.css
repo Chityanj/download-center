@@ -1,4 +1,32 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
+@font-face {
+    font-family: 'urbanist';
+    src: url("/fonts/Urbanist-Regular.woff"),
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:urbanist;
+    src: url("/fonts/Urbanist-SemiBold.woff");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: urbanist;
+    src: url("/fonts/Urbanist-Bold.woff");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: urbanist;
+    src: url("/fonts/Urbanist-ExtraBold.woff");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: urbanist-black;
+    src: url("/fonts/Urbanist-Black.woff");
+}
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
