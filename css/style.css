@@ -787,7 +787,7 @@ section.cover {
   width: 100vw;
   display: none;
 }
-section.cover.show {
+#coverbg {
   display: flex;
 }
 section.cover.has-mask .mask {
