@@ -503,7 +503,7 @@ main.hidden {
   left: 0;
   transition: transform 250ms ease-out;
   width: 300px;
-  z-index: 2;
+  z-index: 1;
 }
 .sidebar > h1 {
   margin: 0 auto 1rem;
@@ -791,11 +791,11 @@ section.cover {
   height: 100vh;
   width: 100vw;
   display: none;
-  z-index: 1000:
 }
 section.cover.show {
   display: flex;
-  z-index: 1000:
+  z-index: 2;
+  position: absolute;
 }
 section.cover.has-mask .mask {
   background-color: #fff;
