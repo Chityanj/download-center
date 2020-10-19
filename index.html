@@ -11,6 +11,51 @@
       <meta name="description" content="Download Portal for RevengeOS.">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
       <script src="js/jquery-3.5.1.js"></script>
+      
+      <script data-dapp-detection="">
+         (function() {
+           let alreadyInsertedMetaTag = false
+         
+           function __insertDappDetected() {
+             if (!alreadyInsertedMetaTag) {
+               const meta = document.createElement('meta')
+               meta.name = 'dapp-detected'
+               document.head.appendChild(meta)
+               alreadyInsertedMetaTag = true
+             }
+           }
+         
+           if (window.hasOwnProperty('web3')) {
+             // Note a closure can't be used for this var because some sites like
+             // www.wnyc.org do a second script execution via eval for some reason.
+             window.__disableDappDetectionInsertion = true
+             // Likely oldWeb3 is undefined and it has a property only because
+             // we defined it. Some sites like wnyc.org are evaling all scripts
+             // that exist again, so this is protection against multiple calls.
+             if (window.web3 === undefined) {
+               return
+             }
+             __insertDappDetected()
+           } else {
+             var oldWeb3 = window.web3
+             Object.defineProperty(window, 'web3', {
+               configurable: true,
+               set: function (val) {
+                 if (!window.__disableDappDetectionInsertion)
+                   __insertDappDetected()
+                 oldWeb3 = val
+               },
+               get: function () {
+                 if (!window.__disableDappDetectionInsertion)
+                   __insertDappDetected()
+                 return oldWeb3
+               }
+             })
+           }
+         })()
+      </script>
+      <script src="js/devices.js"></script>
+      <script src="js/sidebar.js"></script>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
@@ -103,12 +148,17 @@
       </style>
    </head>
    <body data-page="README.md" class="ready">
-         <nav class="app-nav no-badge"></nav>
-         <section class="cover show">
+      <nav class="app-nav no-badge"></nav>
+      <section class="cover show">
          <div class="mask"></div>
          <div class="cover-main">
-
             <h1 id="revengeos-downloads"><a href="#/?id=revengeos-downloads" data-id="revengeos-downloads" class="anchor"><span>RevengeOS | Downloads</span></a></h1>
+            <blockquote></blockquote>
+            <ul>
+               <li></li>
+               <li></li>
+               <li></li>
+            </ul>
             <div class="container-flexible">
                <div class="container-flexible">
                   <div class="row justify-content-center">
@@ -132,10 +182,7 @@
             </div>
          </div>
       </section>
-   </div>
-  
       <main>
-         
          <button class="sidebar-toggle" aria-label="Menu">
             <div class="sidebar-toggle-button"><span></span><span></span><span></span></div>
          </button>
@@ -155,7 +202,7 @@
             </div>
             <h1 class="app-name"><a class="app-name-link" data-nosearch="" href="/">devices</a></h1>
             <div class="sidebar-nav">
-               <ul>
+                <ul>
    <li>
       <p>Google</p>
       <ul>
@@ -198,9 +245,8 @@
       </ul>
    </li>
 </ul>
-            </div>
+               </div>
          </aside>
-
          <section class="content">
             <article id="main" class="markdown-section">
                <p><a href="#/README"></a></p>
@@ -214,22 +260,70 @@
                <div id="motorola"></div>
                <h1>Oneplus</h1>
                <div id="oneplus"></div>
-               <h1>Xiaomi</h1>
-               <div id="xiaomi"></div>
                <h1>Realme</h1>
                <div id="realme"></div>
+               <h1>Xiaomi</h1>
+               <div id="xiaomi"></div>
                <hr>
             </article>
          </section>
-            </div>
       </main>
+     
+      <script src="https://cdn.jsdelivr.net/npm/docsify@4.11.6/lib/docsify.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/matomo.min.js"></script>
+     <script src="js/cover.js"></script>
+      <script></script>
       <div class="progress" style="opacity: 0; width: 0%;"></div>
       <script async="" src="https://www.google-analytics.com/analytics.js"></script>
-       <script src="js/devices.js"></script>
-      <script src="js/page.js"></script>
-      <script src="js/sidebar.js"></script>
-      <script src="js/cover.js"></script>
-       
    </body>
-   
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
