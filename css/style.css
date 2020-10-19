@@ -503,7 +503,7 @@ main.hidden {
   left: 0;
   transition: transform 250ms ease-out;
   width: 300px;
-  z-index: 2;
+  z-index: 1;
 }
 .sidebar > h1 {
   margin: 0 auto 1rem;
@@ -564,13 +564,13 @@ main.hidden {
   border: 0;
   outline: none;
   padding: 10px;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   text-align: center;
   transition: opacity 0.3s;
   width: 284px;
-  z-index: 30;
+  z-index: 2;
   cursor: pointer;
 }
 .sidebar-toggle:hover .sidebar-toggle-button {
@@ -791,7 +791,8 @@ section.cover {
   height: 100vh;
   width: 100vw;
   display: none;
-  z-index: 1000:
+  z-index: 2;
+  position: absolute;
 }
 section.cover.show {
   display: flex;
