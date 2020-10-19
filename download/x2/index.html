@@ -1,9 +1,16 @@
 <html lang="en">
+   <?php
+    function getTitle($t){
+    $title = basename($t);
+    $title = str_replace('_', ' ', $title);//replacing '_' by spaces
+    return $title;
+}
+?>
    <head>
       <meta http-equiv="Pragma" content="no-cache">
       <meta http-equiv="Expires" content="-1">
       <meta charset="UTF-8">
-      <title><?php echo basename(dirname(__DIR__))."-".basename(__DIR__); ?></title>
+     <title><?php echo getTitle(__DIR__); ?></title>
       <link rel="icon" href="_media/favicon.ico">
       <meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
