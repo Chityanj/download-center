@@ -792,11 +792,9 @@ section.cover {
   width: 100vw;
   display: none;
   z-index: 2;
-  position: absolute;
 }
 section.cover.show {
   display: flex;
-  z-index: 1000:
 }
 section.cover.has-mask .mask {
   background-color: #fff;
