@@ -1,11 +1,5 @@
 <html lang="en">
-   <?php
-    function getTitle($t){
-    $title = basename($t);
-    $title = str_replace('_', ' ', $title);//replacing '_' by spaces
-    return $title;
-}
-?>
+   
    <head>
       <meta http-equiv="Pragma" content="no-cache">
       <meta http-equiv="Expires" content="-1">
@@ -28,6 +22,13 @@
       
    </head>
 <body>
+   <?php
+    function getTitle($t){
+    $title = basename($t);
+    $title = str_replace('_', ' ', $title);//replacing '_' by spaces
+    return $title;
+}
+?>
 <section class="cover show">
    <div class="mask"></div>
    <div class="cover-main">
