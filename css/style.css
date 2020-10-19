@@ -612,43 +612,43 @@ body.close .content {
   width: 100%;
  
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
   #xiaomi {
     columns: 1;
    width: 100%;
   }
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
   #google {
     columns: 1;
    width: 100%;
   }
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
   #oneplus {
     columns: 1;
    width: 100%;
   }
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
   #leeco {
     columns: 1;
    width: 100%;
   }
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
   #lenovo {
     columns: 1;
    width: 100%;
   }
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
   #motorola {
     columns: 1;
    width: 100%;
   }
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
   #realme {
     columns: 1;
    width: 100%;
