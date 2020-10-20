@@ -7,16 +7,16 @@
       <link rel="icon" href="_media/favicon.ico">
       <meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <meta name="keywords" content="doc,docs,documentation,gitbook,creator,generator,github,jekyll,github-pages">
+      <meta name="keywords" content="aosp,android,google,xiaomi,realme,rom,github,revengeos,reveneos rom,download revengeos,android 11,lenovo,custom rom,xda,xda revengeos,revengeos github">
       <meta name="description" content="Download Portal for RevengeOS.">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-      <script src="js/jquery-3.5.1.js"></script>
-      <script src="js/devices.js"></script>
-      <script src="js/sidebar.js"></script>
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-      <link rel="stylesheet" href="css/style.css" title="vue">
+      <script src="assets/js/jquery-3.5.1.js"></script>
+      <script src="assets/js/devices.js"></script>
+      <script src="assets/js/sidebar.js"></script>
+      <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" title="bootstrap">
+     
+      <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+      <link rel="stylesheet" href="assets/css/style.css" title="vue">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
       
    </head>
@@ -137,8 +137,8 @@
          </section>
       </main>
       
-     <script src="js/cover.js"></script>
-      <script src="js/toggle.js"></script>
+     <script src="assets/js/cover.js"></script>
+      <script src="assets/js/toggle.js"></script>
       <script></script>
       <div class="progress" style="opacity: 0; width: 0%;"></div>
       <script async="" src="https://www.google-analytics.com/analytics.js"></script>
