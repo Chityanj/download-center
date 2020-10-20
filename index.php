@@ -16,7 +16,7 @@
       <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.css" title="bootstrap">
      
       <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-      <link rel="stylesheet" href="https://raw.githubusercontent.com/Chityanj/download-center/main/assets/css/style.css?token=AE4MYLDJIXQ7JNRMLAO4HCS7S74D6" title="vue">
+      <link rel="stylesheet" href="assets/css/style.css" title="vue">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
       
    </head>
