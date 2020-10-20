@@ -20,7 +20,7 @@ $(window).on('load', function() {
 			
                       <a href="#/download/${data[i].codename}/">
                             <section>
-				<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.png';" />
+				<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.webp';" />
                                 <div class="blog_container">
                                     <div class="section_title">${data[i].name}</div>
                         <div class="about_section">${data[i].maintainer}</div>
@@ -35,7 +35,7 @@ $(window).on('load', function() {
               $("#lenovo").append(`
                 <a href="#/download/${data[i].codename}/">
                     <section>
-			<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.png';" />
+			<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.webp';" />
                         <div class="blog_container">
                             <div class="section_title">${data[i].name}</div>
                             <div class="about_section">
@@ -53,7 +53,7 @@ $(window).on('load', function() {
                   $("#google").append(`
                     <a href="#/download/${data[i].codename}/">
                         <section>
-			<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.png';" />
+			<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.webp';" />
                             <div class="blog_container">
                                 <div class="section_title">${data[i].name}</div>
                                 <div class="about_section">
@@ -72,7 +72,7 @@ $(window).on('load', function() {
                   $("#leeco").append(`
                     <a href="#/download/${data[i].codename}/">
                         <section>
-			<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.png';" />
+			<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.webp';" />
                             <div class="blog_container">
                                 <div class="section_title">${data[i].name}</div>
                                 <div class="about_section">
@@ -90,7 +90,7 @@ $(window).on('load', function() {
                           $("#oneplus").append(`
                             <a href="#/download/${data[i].codename}/">
                             <section>
-				<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.png';" />
+				<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.webp';" />
                                 <div class="blog_container">
                                     <div class="section_title">${data[i].name}</div>
                         <div class="about_section">${data[i].maintainer}</div>
@@ -105,7 +105,7 @@ $(window).on('load', function() {
                           $("#realme").append(`
                             <a href="#/download/${data[i].codename}/">
                                 <section>
-				<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.png';" />
+				<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.webp';" />
                                     <div class="blog_container">
                                         <div class="section_title">${data[i].name}</div>
                                         <div class="about_section">
@@ -123,7 +123,7 @@ $(window).on('load', function() {
                               $("#motorola").append(`
                                 <a href="#/download/${data[i].codename}/">
                                     <section>
-					<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.png';" />
+					<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.webp';" />
                                         <div class="blog_container">
                                             <div class="section_title">${data[i].name}</div>
                                             <div class="about_section">
@@ -141,7 +141,7 @@ $(window).on('load', function() {
                                   $("#umid").append(`
                                     <a href="#/download/${data[i].codename}/">
                                         <section>
-						<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.png';" />
+						<img src="https://wiki.lineageos.org/images/devices/${data[i].codename}.png" onerror="this.onerror=null;this.src='images/${data[i].codename}.webp';" />
                                             <div class="blog_container">
                                                 <div class="section_title">${data[i].name}</div>
                                                 <div class="about_section">
