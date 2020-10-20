@@ -1,7 +1,6 @@
 <html lang="en">
    <head>
-      <meta http-equiv="Pragma" content="no-cache">
-      <meta http-equiv="Expires" content="-1">
+     
       <meta charset="UTF-8">
       <title>RevengeOS | Downloads</title>
       <link rel="icon" href="_media/favicon.ico">
