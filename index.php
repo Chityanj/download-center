@@ -136,8 +136,14 @@
             </article>
          </section>
       </main>
-      
-       <script src="js/fallback.js"></script>
+      <script>
+  $('img[data-failover]').error(function(){
+    var failover = $(this).data('failover');
+    if (this.src != failover){
+      this.src = failover;
+    }
+  });
+</script>
      <script src="js/cover.js"></script>
       <script src="js/toggle.js"></script>
       <script></script>
