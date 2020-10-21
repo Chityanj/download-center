@@ -88,10 +88,6 @@ body {
   margin: 0;
   overflow-x: hidden;
 }
-#downimg img{
-  width: auto;
-  height: 340px; 
-}
 #google {
   columns: 3;
   width: 100%;
@@ -356,7 +352,8 @@ body {
 }
 
 img {
-  max-width: 100%;
+  width: auto;
+  height: 320px;
 }
 a[disabled] {
   cursor: not-allowed;
