@@ -1,7 +1,5 @@
 $(window).on('load', function() {
 		$.getJSON("https://raw.githubusercontent.com/Chityanj/downloads/master/maintaners.json?token=AE4MYLAQAWPPMRBGSBFUXYS7SV7HQ", function(downpg) {
-        downpg = $(window).on('load', function() {
-		$.getJSON("https://raw.githubusercontent.com/Chityanj/downloads/master/maintaners.json?token=AE4MYLAQAWPPMRBGSBFUXYS7SV7HQ", function(downpg) {
         downpg = downpg || [];
         if (downpg.length == 0) {
           return (document.getElementById("device_section").style.display =
