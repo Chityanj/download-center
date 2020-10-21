@@ -1,6 +1,6 @@
 <html lang="en">
    <head>
-     
+     <meta http-equiv="Cache-control" content="public">
       <meta charset="UTF-8">
       <title>RevengeOS | Downloads</title>
       <link rel="icon" href="_media/favicon.ico">
