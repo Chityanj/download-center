@@ -3,7 +3,10 @@
      <meta http-equiv="Cache-control" content="public">
       <meta charset="UTF-8">
       <title>RevengeOS | Downloads</title>
-      <link rel="icon" href="_media/favicon.ico">
+      <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
+      <link rel="manifest" href="images/favicons/site.webmanifest">
       <meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       <meta name="keywords" content="aosp,android,google,xiaomi,realme,rom,github,revengeos,reveneos rom,download revengeos,android 11,lenovo,custom rom,xda,xda revengeos,revengeos github">
