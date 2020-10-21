@@ -21,8 +21,7 @@ function getTitle($t){
       <meta name="description" content="Download Portal for RevengeOS.">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
        <script src="../../js/jquery-3.5.1.js"></script>
-      <script src="../../js/devices.js"></script>
-      <script src="../../js/sidebar.js"></script>
+      <script src="../../js/downloadpg.js"></script>
 	
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">
      <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.min.js" integrity="sha384-5h4UG+6GOuV9qXh6HqOLwZMY4mnLPraeTrjT5v07o347pj6IkfuoASuGBhfDsp3d" crossorigin="anonymous"></script>
@@ -37,31 +36,19 @@ function getTitle($t){
 <section class="cover show">
    <div class="mask"></div>
    <div class="cover-main">
-      <h1 id="revengeos-40"><a href="#/?id=revengeos-40" data-id="revengeos-40" class="anchor"><span>RevengeOS <small>4.0</small></span></a></h1><blockquote>
-<p>A beautiful custom ROM based on AOSP.</p></blockquote>
-<ul><li>Beautiful and fast</li><li>Stable and minimal</li><li>Gradients love</li></ul><div class="container-flexible">
-  <div class="row justify-content-center">
-    <div class="col-auto">
-      <li><a href="https://t.me/itsrevengeos" target="_blank" class="fab fa-telegram fa-2x"><span class="label"></span></a></li>
-    </div>
-    <div class="col-auto">
-       <li><a href="https://github.com/revengeos" target="_blank" class="fab fa-github fa-2x"><span class="label"></span></a></li>
-    </div>
-    <div class="col-auto">
-      <li><a https:="" twitter.com="" itsrevengeos"="" target="_blank" class="fab fa-twitter fa-2x"><span class="label"></span></a></li> 
-    </div>
-    <div class="col-auto">
-      <li><a https:="" discord.com="" invite="" vwqjm8b"="" target="_blank" class="fab fa-discord fa-2x"><span class="label"></span></a></li>  
-    </div>
-    <div class="col-auto">
-      <li><a https:="" www.paypal.com="" paypalme="" lucchetto"="" target="_blank" class="fab fa-paypal fa-2x"><span class="label"></span></a></li>   
-    </div>    
-  </div>
-</div>
-
-
-<p><a href="https://github.com/revengeos" target="_blank" rel="noopener">GitHub</a>
-<a href="https://osdn.net/projects/revengeos/storage/" target="_blank" rel="noopener">Download</a></p></div></section>
+   <div id="devicehead"></div>
+   <div class="container-flexible">
+      <div class="row justify-content-center">
+         <div class="col-md-5">
+            <div id="downimg"></div>
+         </div>
+         <div class="col-md-5">Hello<br>hrllo</div>
+      </div>
+   </div>
+   <p id="buttondowpg">
+  </p>
+ </div>
+</section>
 <script src="../../js/cover.js"></script>
       
       <script></script>
