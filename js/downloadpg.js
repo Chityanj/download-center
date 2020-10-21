@@ -5,7 +5,7 @@ $(window).on('load', function() {
           return (document.getElementById("device_section").style.display =
             "none");
         }
-	     var title = 'dipper';
+	    var title = document.title;
         for (var i = 0; i < downpg.length; i++) {
         if (downpg[i].codename == title){
           $("#downimg").append(`
