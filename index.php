@@ -1,6 +1,6 @@
 <html lang="en">
    <head>
-     <meta http-equiv="Cache-control" content="public">
+     
       <meta charset="UTF-8">
       <title>RevengeOS | Downloads</title>
       <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
