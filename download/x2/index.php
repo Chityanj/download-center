@@ -47,10 +47,10 @@ function getTitle($t){
    <div id="devicehead"></div>
    <div class="container-flexible">
       <div class="row justify-content-center">
-         <div class="col-md-5">
+         <div class="col-sm-3">
             <div id="downimg"></div>
          </div>
-         <div class="col-md-5">Hello<br>hrllo</div>
+         <div class="col-sm-3">Hello<br>hrllo</div>
       </div>
    </div>
    <div class="text-center">
