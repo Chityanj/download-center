@@ -63,6 +63,9 @@ function getTitle($t){
 .justify-content-center {
      margin-bottom: 25px!important;
 }
+.col-sm-3 {
+    margin-bottom: 10;
+}
 </style>
 </div>
 </section>
