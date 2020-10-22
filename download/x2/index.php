@@ -60,7 +60,13 @@ function getTitle($t){
   <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#modalGM">Google Maps Modal</button>
 
 </div>
-
+</section>
+	
+<script src="../../js/cover.js"></script>
+      
+      <script></script>
+      <div class="progress" style="opacity: 0; width: 0%;"></div>
+      
 <!--Modal: Name-->
 <div class="modal fade" id="modalYT" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg" role="document">
@@ -98,12 +104,5 @@ function getTitle($t){
   </div>
 </div>
  </div>
-</section>
-	
-<script src="../../js/cover.js"></script>
-      
-      <script></script>
-      <div class="progress" style="opacity: 0; width: 0%;"></div>
-      
    </body>
 </html>
