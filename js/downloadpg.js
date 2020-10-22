@@ -17,7 +17,7 @@ $(window).on('load', function() {
                 
                 `);
 		$("#buttondowpg").append(`
-                <a href="${downpg[i].xda_thread}" target="_blank" rel="noopener">GitHub</a>
+                <a href="${downpg[i].xda_thread}" target="_blank" rel="noopener">XDA</a>
                 
                 `);
             }
