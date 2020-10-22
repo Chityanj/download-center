@@ -45,7 +45,7 @@ function getTitle($t){
          <div class="col-md-5">Hello<br>hrllo</div>
       </div>
    </div>
-   <p id="buttondowpg"><a class="btn btn-info" data-toggle="modal" data-target="#modalYT">Changelog</a>
+   <p id="buttondowpg"><button type="button" class="btn btn-info" data-toggle="modal" data-target="#modalYT">Changelog</button>
   </p>
 	   <div class="text-center">
 	   <!--Modal: Name-->
