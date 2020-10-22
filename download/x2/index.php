@@ -60,6 +60,9 @@ function getTitle($t){
   <button type="button" class="btn btn-secondary btn blue-gradient">Download</button>
 <style>
 .btn {border-radius: 30px;}
+.justify-content-center {
+     margin-bottom: 25px!important;
+}
 </style>
 </div>
 </section>
