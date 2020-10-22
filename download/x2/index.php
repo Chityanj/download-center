@@ -55,9 +55,9 @@ function getTitle($t){
    </div>
    <div class="text-center">
 
-  <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modalYT">YouTube Modal</button>
-  <button type="button" class="btn btn-default" data-toggle="modal" data-target="#modalVM">Vimeo Modal</button>
-  <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#modalGM">Google Maps Modal</button>
+  <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modalYT">Changelog</button>
+  <button type="button" class="btn btn-default" data-toggle="modal" data-target="#modalVM">XDA</button>
+  <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#modalGM">Download</button>
 
 </div>
 </section>
@@ -78,7 +78,7 @@ function getTitle($t){
       <div class="modal-body mb-0 p-0">
 
         <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
-          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A3PDXmYoF5U" allowfullscreen></iframe>
+          <iframe class="embed-responsive-item" src="https://raw.githubusercontent.com/RevengeOS-Devices/official_devices/r10.0/x2/changelog.txt" allowfullscreen></iframe>
         </div>
 
       </div>
