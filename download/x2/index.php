@@ -55,10 +55,12 @@ function getTitle($t){
    </div>
    <div class="text-center">
 
-  <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modalYT">Changelog</button>
-  <button type="button" class="btn btn-default" data-toggle="modal" data-target="#modalVM">XDA</button>
-  <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#modalGM">Download</button>
-
+  <button type="button" class="btn btn-info btn aqua-gradient " data-toggle="modal" data-target="#modalYT">Changelog</button>
+  <button type="button" class="btn btn-default peach-gradient">XDA</button>
+  <button type="button" class="btn btn-secondary btn blue-gradient">Download</button>
+<style>
+.btn {border-radius: 30px;}
+</style>
 </div>
 </section>
 	
