@@ -355,6 +355,12 @@ img {
   width: auto;
   height: 320px;
 }
+@media only screen and (max-width: 600px) {
+  img {
+    width: auto;
+    height: 250px;
+  }
+}
 a[disabled] {
   cursor: not-allowed;
   opacity: 0.6;
