@@ -53,9 +53,8 @@ function getTitle($t){
          <div class="col-auto">
             <div id="downimg"></div>
          </div>
-         <div id="intro class="col-auto col-auto d-flex align-items-center ">
-	      
-	 </div>
+         <div id="intro" class="col-auto col-auto d-flex align-items-center ">
+	  </div>
       </div>
    </div>
    <div id="buttons" class="text-center">
