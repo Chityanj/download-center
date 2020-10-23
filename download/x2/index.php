@@ -50,14 +50,18 @@ function getTitle($t){
          <div class="col-sm-3">
             <div id="downimg"></div>
          </div>
-         <div class="col-sm-3">Hello<br>hrllo</div>
+         <div class="col-sm-3">
+	      <div id="intro"></div>
+	 </div>
       </div>
    </div>
-   <div class="text-center">
+   <div id="buttons" class="text-center">
 
   <button type="button" class="btn aqua-gradient " data-toggle="modal" data-target="#modalYT">Changelog</button>
   <button type="button" class="btn peach-gradient">XDA</button>
   <button type="button" class="btn btn blue-gradient"><a href="https://github.com/revengeos">GitHub</a></button>
+</div>
+</section>
 <style>
 .btn {border-radius: 30px;}
 .justify-content-center {
@@ -66,10 +70,7 @@ function getTitle($t){
 .col-sm-3 {
     margin-bottom: 10;
 }
-</style>
-</div>
-</section>
-	
+</style>	
 <script src="../../js/cover.js"></script>
       
       <script></script>
