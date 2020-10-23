@@ -55,9 +55,9 @@ function getTitle($t){
    </div>
    <div class="text-center">
 
-  <button type="button" class="btn btn-info btn aqua-gradient " data-toggle="modal" data-target="#modalYT">Changelog</button>
-  <button type="button" class="btn btn-default peach-gradient">XDA</button>
-  <button type="button" class="btn btn-secondary btn blue-gradient">Download</button>
+  <button type="button" class="btn aqua-gradient " data-toggle="modal" data-target="#modalYT">Changelog</button>
+  <button type="button" class="btn peach-gradient">XDA</button>
+  <button type="button" class="btn btn blue-gradient"><a href="https://github.com/revengeos">GitHub</a></button>
 <style>
 .btn {border-radius: 30px;}
 .justify-content-center {
