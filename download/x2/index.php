@@ -24,6 +24,7 @@ function getTitle($t){
 	<script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
 	<script>dayjs().format()</script>
       	<script src="../../js/downloadpg.js"></script>
+	   <script src="../../js/link.js"></script>
 	
 	<!-- Bootstrap tooltips -->
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
