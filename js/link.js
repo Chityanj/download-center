@@ -8,11 +8,11 @@ var device = document.title;
        
        var inMB = (emp.size/1048576).toFixed(1) + 'MB' 
             $("#intro").append(`
-                <h5>Version: ${emp.version}</h5>                       
+                <h6>Version: ${emp.version}</h6><br>                      
                `);
       
-              $("#intro").append( "<h5>Date: " + formatted + "</h5>");
-              $("#intro").append( "<h5>Size: " + inMB + "</h5>");
+              $("#intro").append( "<h6>Date: " + formatted + "</h6><br>");
+              $("#intro").append( "<h6>Size: " + inMB + "</h6>");
        
               $("#buttons").append(`<a href="${emp.url}"><button type="button" class="btn btn blue-gradient">Download</button></a>`);
        
