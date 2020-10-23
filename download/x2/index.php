@@ -14,14 +14,16 @@ function getTitle($t){
       <meta http-equiv="Expires" content="-1">
       <meta charset="UTF-8">
 	<title><?php echo getTitle(__DIR__); ?></title>
-      <link rel="icon" href="_media/favicon.ico">
-      <meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <meta name="keywords" content="revengeos,revengeos downloads,revengeos for xiaomi,xiaomi,custom rom,xda revengeos,xda,download revngeos,ros,android,aosp">
-      <meta name="description" content="Download Portal for RevengeOS.">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-      <script src="../../js/downloadpg.js"></script>
+      	<link rel="icon" href="_media/favicon.ico">
+      	<meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE">
+      	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      	<meta name="keywords" content="revengeos,revengeos downloads,revengeos for xiaomi,xiaomi,custom rom,xda revengeos,xda,download revngeos,ros,android,aosp">
+      	<meta name="description" content="Download Portal for RevengeOS.">
+      	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+      	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
+	<script>dayjs().format()</script>
+      	<script src="../../js/downloadpg.js"></script>
 	
 	<!-- Bootstrap tooltips -->
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
@@ -47,11 +49,11 @@ function getTitle($t){
    <div id="devicehead"></div>
    <div class="container-flexible">
       <div class="row justify-content-center">
-         <div class="col-sm-3">
+         <div class="col-auto">
             <div id="downimg"></div>
          </div>
-         <div class="col-sm-3">
-	      <div id="intro"></div>
+         <div id="intro class="col-auto col-auto d-flex align-items-center ">
+	      
 	 </div>
       </div>
    </div>
@@ -59,7 +61,7 @@ function getTitle($t){
 
   <button type="button" class="btn aqua-gradient " data-toggle="modal" data-target="#modalYT">Changelog</button>
   <button type="button" class="btn peach-gradient">XDA</button>
-  <button type="button" class="btn btn blue-gradient"><a href="https://github.com/revengeos">GitHub</a></button>
+  
 </div>
 </section>
 <style>
@@ -67,7 +69,7 @@ function getTitle($t){
 .justify-content-center {
      margin-bottom: 25px!important;
 }
-.col-sm-3 {
+.col-auto {
     margin-bottom: 10;
 }
 </style>	
@@ -87,7 +89,7 @@ function getTitle($t){
       <div class="modal-body mb-0 p-0">
 
         <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
-          <iframe class="embed-responsive-item" src="https://raw.githubusercontent.com/RevengeOS-Devices/official_devices/r10.0/x2/changelog.txt" allowfullscreen></iframe>
+          <iframe class="embed-responsive-item" src="changelog.html" allowfullscreen></iframe>
         </div>
 
       </div>
