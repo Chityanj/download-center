@@ -1,4 +1,50 @@
-<div id="wrapper">
+<?php
+function getTitle($t){
+    $title = basename($t);
+    $title = str_replace('_', ' ', $title);//replacing '_' by spaces
+    return $title;
+}
+?>
+
+
+<html lang="en">
+
+   <head>
+      <meta http-equiv="Pragma" content="no-cache">
+      <meta http-equiv="Expires" content="-1">
+      <meta charset="UTF-8">
+	<title><?php echo getTitle(__DIR__); ?></title>
+      	<link rel="icon" href="_media/favicon.ico">
+      	<meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE">
+      	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      	<meta name="keywords" content="revengeos,revengeos downloads,revengeos for xiaomi,xiaomi,custom rom,xda revengeos,xda,download revngeos,ros,android,aosp">
+      	<meta name="description" content="Download Portal for RevengeOS.">
+      	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+      	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
+	<script>dayjs().format()</script>
+      	<script src="../../js/downloadpg.js"></script>
+	   <script src="../../js/link.js"></script>
+
+	<!-- Bootstrap tooltips -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+	<!-- Bootstrap core JavaScript -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+	<!-- MDB core JavaScript -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
+	<!-- Google Fonts -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+	<!-- Bootstrap core CSS -->
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+	<!-- Material Design Bootstrap -->
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">   
+      <link rel="stylesheet" href="../../css/devices.css" title="vue">
+
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+   </head>
+<body>
+        <div id="wrapper">
         <div class="container-fluid">
             <div class="main-card">
                 <header id="page-header" class="text-center">
@@ -93,3 +139,5 @@
 
 
 </div>
+</body>
+</html>        
