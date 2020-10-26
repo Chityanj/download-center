@@ -53,20 +53,20 @@ function getTitle($t){
                 </header>
                 <div class="container">
                     <div class="row device-section">
-                        <div class="col-auto">
+                        <div class="col-sm-5">
                             <img src="https://wiki.lineageos.org/images/devices/x2.png" id="device-image" class="device-image spec-device-img">
                         </div>
-                        <div class="col-auto">
+                        <div class="col-sm-5">
                             
                             <div class="row">
-                                <div class="col-xs spec-col">
+                                <div class="col spec-col">
                                     <i class="icon far fa-calendar-alt"></i>
                                     <div class="spec-text">
                                         <div class="metropolis-semibold spec-type">Date</div>
                                         <div id="cpu-value" class="spec-value">-</div>
                                     </div>
                                 </div>
-                                <div class="col-xs spec-col">
+                                <div class="col spec-col">
                                     <i class="icon fas fa-info-circle"></i>
                                     <div class="spec-text">
                                         <div class="metropolis-semibold spec-type">Version</div>
@@ -75,14 +75,14 @@ function getTitle($t){
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-xs spec-col">
+                                <div class="col spec-col">
                                     <i class="icon fas fa-download"></i>
                                     <div class="spec-text">
                                         <div class="metropolis-semibold spec-type">Size</div>
                                         <div id="display-value" class="spec-value">-</div>
                                     </div>
                                 </div>
-                                <div class="col-xs spec-col">
+                                <div class="col spec-col">
                                    <i class="fas fa-donate icon"></i>
                                     <div class="spec-text">
                                         <div class="metropolis-semibold spec-type">Donate</div>
