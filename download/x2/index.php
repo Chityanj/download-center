@@ -52,7 +52,7 @@ function getTitle($t){
                 </header>
                 <div class="container">
                     <div class="row device-section">
-                        <div id="downimg" class="col-md">
+                        <div id="downimg" class="col-md spec-device-img">
                             
                         </div>
                         <div class="col-md">
