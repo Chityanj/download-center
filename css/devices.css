@@ -34,6 +34,7 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
+    min-width: 450px;
     background: linear-gradient(to top right,rgba(100, 213, 251, 0.3),rgba(228, 166, 249, 0.5)) fixed;
 }
 
@@ -81,7 +82,7 @@ h1 {
     padding-bottom: 30px;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 600px) {
   .spec-device-img {
     width: auto;
     height: 270px;
@@ -114,14 +115,22 @@ h1 {
     flex: 1 50%;
     max-width: 275px;
   border: 3px solid rgb(0, 0, 0, 0.04);
- 
-    border-radius: 30px;
+ border-radius: 30px;
     padding: 30px;
   margin-bottom: 5px;
   margin-right:1%;
   
 }
 
+@media only screen and (max-width: 760px) {
+  .spec-col {
+     max-width: 500px;
+}   
+    
+ @media only screen and (max-width: 500px) {
+  .spec-col {
+     max-width: fit-content;
+}    
 .spec-text {
     float: left;
 }
