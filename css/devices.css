@@ -80,6 +80,13 @@ h1 {
     height: 340px;
     padding-bottom: 30px;
 }
+
+@media only screen and (max-width: 900px) {
+  .spec-device-img {
+    width: auto;
+    height: 230px;
+  }
+}
 .nav-btn {
     transition: all 700ms;
     position: absolute;
