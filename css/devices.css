@@ -49,6 +49,9 @@ body {
     padding-bottom: 25px;
   
 }
+.nav-btn {border-radius: 45px;}
+.btn {border-radius: 45px;}
+
 .main-card {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
     border-radius: 30px;
@@ -76,6 +79,10 @@ body {
 h1 {
     margin: 0;
 }
+#downimg{
+text-align: center;
+}
+    
 img {
     height: auto;
     height: 340px;
@@ -134,5 +141,3 @@ img {
 .spec-text {
     float: left;
 }
-.nav-btn {border-radius: 45px;}
-.btn {border-radius: 45px;}
