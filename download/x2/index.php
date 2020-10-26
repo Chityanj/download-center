@@ -1,3 +1,11 @@
+<?php
+function getTitle($t){
+    $title = basename($t);
+    $title = str_replace('_', ' ', $title);//replacing '_' by spaces
+    return $title;
+}
+?>
+
 <html lang="en">
    <head>
       <meta http-equiv="Pragma" content="no-cache">
