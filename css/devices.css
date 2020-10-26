@@ -76,14 +76,14 @@ body {
 h1 {
     margin: 0;
 }
-#downimg {
+img {
     height: auto;
     height: 340px;
     padding-bottom: 30px;
 }
 
 @media only screen and (max-width: 600px) {
-  #downimg {
+  img {
     width: auto;
     height: 270px;
   }
