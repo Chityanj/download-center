@@ -36,11 +36,11 @@ $(window).on('load', function() {
        
        var inMB = (emp.size/1048576).toFixed(1) + 'MB' 
             $("#ver-value").append(`
-                <h6>${emp.version}</h6><br>                      
+                ${emp.version}                      
                `);
       
-              $("#date-value").append( "<h6>" + formatted + "</h6>");
-              $("#size-value").append( "<h6>Size: " + inMB + "</h6>");
+              $("#date-value").append(formatted);
+              $("#size-value").append(inMB);
        
               $("#buttons").append(`<a href="${emp.url}"><button type="button" class="btn blue-gradient">Download</button></a>`);
        
