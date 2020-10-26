@@ -21,6 +21,7 @@ function getTitle($t){
       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
       <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
+      <script async defer data-website-id="a6c896cc-6841-4236-8483-be34321ecc91" src="https://analytics.revengeos.com/umami.js"></script>
       <script>dayjs().format()</script>
       <!-- Bootstrap tooltips -->
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
