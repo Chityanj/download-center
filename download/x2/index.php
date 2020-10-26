@@ -70,7 +70,7 @@ function getTitle($t){
                            <i class="icon fas fa-download"></i>
                            <div class="spec-text">
                               <div class="metropolis-semibold spec-type">Size</div>
-                              <div id="size-value" class="spec-value">-</div>
+                              <div id="size-value" class="spec-value"></div>
                            </div>
                         </div>
                         <div class="col spec-col">
@@ -88,7 +88,8 @@ function getTitle($t){
                <button type="button" class="btn btn purple-gradient" data-toggle="modal" data-target="#modalGM">Changelog</button>
             </div>
          </div>
-         <script src="../../js/downloadpg.js"></script>
+         
       </div>
+          <script src="../../js/downloadpg.js"></script>
    </body>
 </html>
