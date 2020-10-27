@@ -118,7 +118,17 @@
          <section class="content">
             <article id="main" class="markdown-section">
                <p><a href="#/README"></a></p>
-               
+               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto center top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="4203026862"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
                <h1>Google</h1>
                <div id="google"></div>
                <h1>LeEco</h1>
@@ -142,6 +152,16 @@
       <script src="js/sidebar.min.js"></script>
      <script src="js/cover.min.js"></script>
       <script src="js/toogle.min.js"></script>
-    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto center top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="4203026862"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
    </body>
 </html>
