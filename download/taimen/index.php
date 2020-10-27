@@ -41,19 +41,16 @@ function getTitle($t){
        <script src="../../js/downpg.min.js"></script>
     </head>
    <body>
-        <div style="height:170px!important;width:auto;text-align:center">
-        <div style="height:170px;width:auto">
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto center top -->
+        <div style="text-align:center">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto bottom -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:inline-block;width:auto;height:130px"
      data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="4203026862"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-ad-slot="5426864223"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
+</script>
             </div>
       <div id="wrapper">
       <div class="container-fluid">
