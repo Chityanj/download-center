@@ -1,15 +1,10 @@
-Updated Kernel to 4.14.193
-Updated All blobs from 20.7.30 beta
-Enabled boot and system server dex-preopt
-Updated init scripts from LA.UM.8.11.r1-03800-NICOBAR.0
-Updated graphics stack from LA.UM.8.11.r1-03800
-Updated media configs from LA.UM.8.11.r1-03800-NICOBAR.0
-Sets LCD density to 440
-Added support for willow units with hwversion 19.39.0 (Must be on latest unofficial TWRP recovery)
-Performance tweaks & much improvements
-Fixed GCam DSP-accelerated HDR processing
-Used Clang 12.0
-Added Xiaomi Parts
-Fixed Fm Radio
-Updated fingerprint to Coral's August patch
-
+Added bass booster preset for MiSound
+Disabled speaker protection feature in audio HAL
+Optimised battery usage
+Added KCAL support 
+Fixed camera yellow tint
+Monochrome theme is default for now 
+Gradients are enabled except for qs tiles 
+Added back Redesigned Volume dialog with quick player
+Improved qs blur smoothness
+Fixed showing Double Battery charging Info on lockscreen

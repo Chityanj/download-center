@@ -38,9 +38,20 @@ function getTitle($t){
       <link rel="stylesheet" href="../../css/devices.css" title="vue">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
         <script async defer data-website-id="a6c896cc-6841-4236-8483-be34321ecc91" src="https://analytics.revengeos.com/umami.js"></script>
+       <script src="../../js/downpg.min.js"></script>
     </head>
    <body>
-  
+        <div style="text-align:center">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto bottom -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:780px;height:130px"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="5426864223"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
       <div id="wrapper">
       <div class="container-fluid">
          <div class="main-card">
@@ -88,16 +99,58 @@ function getTitle($t){
                   </div>
                </div>
             </div>
-             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
+            
             <div id="buttons" class="text-center">
-               <button type="button" class="btn btn purple-gradient" data-toggle="modal" data-target="#modalGM">Changelog</button>
+               <button type="button" class="btn btn purple-gradient" data-toggle="modal" data-target="#modalYT">Changelog</button>
             </div>
          </div>
+ </div>
+</div>        
+     <div style="text-align:center">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto bottom -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:780px;height:130px"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="5426864223"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>      
+          <!--Modal: Name-->
+<div class="modal fade" id="modalYT" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+
+    <!--Content-->
+    <div class="modal-content">
+
+      <!--Body-->
+      <div class="modal-body mb-0 p-0">
+
+        <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+          <iframe class="embed-responsive-item" src="changelog.html" allowfullscreen></iframe>
+        </div>
 
       </div>
-        
-          
-          <script src="../../js/downpg.min.js"></script>
+            
+      <!--Footer-->
+      <div class="modal-footer justify-content-center">
+        <span class="mr-4">Spread the word!</span>
+        <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>
+        <!--Twitter-->
+        <a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>
+        <!--Google +-->
+        <a type="button" class="btn-floating btn-sm btn-gplus"><i class="fab fa-google-plus-g"></i></a>
+        <!--Linkedin-->
+        <a type="button" class="btn-floating btn-sm btn-ins"><i class="fab fa-linkedin-in"></i></a>
+
+        <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+
+      </div>
+    </div>
+    <!--/.Content-->
+
+  </div>
+</div>
    </body>
 </html>

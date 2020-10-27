@@ -1,8 +1,0 @@
-Faster app loading
-August security patches
-Aggressive battery saving
-Redesigned Volume dialog with quick player (rolling out on selected devices)
-Always on display on charge
-New and improved always on display quick setting tile
-Fix Bluetooth quick settings menu for some devices
-Android R icon shapes
