@@ -7,6 +7,7 @@
       <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
       <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
       <link rel="manifest" href="images/favicons/site.webmanifest">
+      <script async defer data-website-id="ff9af394-4cf6-4674-9fc8-8241e42a00ac" src="https://analytics.revengeos.com/umami.js"></script>
       <meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       <meta name="keywords" content="aosp,android,google,xiaomi,realme,rom,github,revengeos,reveneos rom,download revengeos,android 11,lenovo,custom rom,xda,xda revengeos,revengeos github">
@@ -71,6 +72,17 @@
                </div>
                <div class="results-panel"></div>
             </div>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="3492580420"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
             <h1 class="app-name"><a class="app-name-link" data-nosearch="" href="/">devices</a></h1>
             <div class="sidebar-nav">
                 <ul>
@@ -121,6 +133,17 @@
          <section class="content">
             <article id="main" class="markdown-section">
                <p><a href="#/README"></a></p>
+               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="3492580420"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
                <h1>Google</h1>
                <div id="google"></div>
                <h1>LeEco</h1>
@@ -129,6 +152,17 @@
                <div id="lenovo"></div>
                <h1>Moto</h1>
                <div id="motorola"></div>
+               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="3492580420"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
                <h1>Oneplus</h1>
                <div id="oneplus"></div>
                <h1>Realme</h1>
@@ -144,6 +178,6 @@
       <script src="js/toggle.js"></script>
       <script></script>
       <div class="progress" style="opacity: 0; width: 0%;"></div>
-      <script async="" src="https://www.google-analytics.com/analytics.js"></script>
+ <script data-ad-client="ca-pub-5878875805175242" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
    </body>
 </html>
