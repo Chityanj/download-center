@@ -18,6 +18,10 @@
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">  
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
        <link rel="stylesheet" href="css/styles.css" title="vue">
+       <script src="js/devices.min.js"></script>
+      <script src="js/sidebar.min.js"></script>
+     <script src="js/cover.min.js"></script>
+      <script src="js/toogle.min.js"></script>
    
    </head>
    <body data-page="README.md" class="ready">
@@ -125,8 +129,7 @@
                </div>
          </aside>
          <section class="content">
-            <article id="main" class="markdown-section">
-             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Auto center top -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,6 +140,8 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+            <article id="main" class="markdown-section">
+             
                <h1>Google</h1>
                <div id="google"></div>
                <h1>LeEco</h1>
@@ -167,10 +172,7 @@
             </article>
          </section>
       </main>
-     <script src="js/devices.min.js"></script>
-      <script src="js/sidebar.min.js"></script>
-     <script src="js/cover.min.js"></script>
-      <script src="js/toogle.min.js"></script>
+    
     
    </body>
 </html>
