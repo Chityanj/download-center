@@ -99,8 +99,7 @@ function getTitle($t){
                   </div>
                </div>
             </div>
-             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
+            
             <div id="buttons" class="text-center">
                <button type="button" class="btn btn purple-gradient" data-toggle="modal" data-target="#modalGM">Changelog</button>
             </div>
@@ -108,7 +107,17 @@ function getTitle($t){
 
       </div>
         
-          
+         <div style="text-align:center">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto bottom -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:780px;height:130px"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="5426864223"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>  
           
    </body>
 </html>
