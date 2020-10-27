@@ -12,12 +12,13 @@ function getTitle($t){
       <meta http-equiv="Expires" content="-1">
       <meta charset="UTF-8">
       <title><?php echo getTitle(__DIR__); ?></title>
-      <link rel="icon" href="../..media/favicon.ico">
+      <link rel="icon" href="../../media/favicon.ico">
       <meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <meta property="og:image" content="../..media/favicon.ico" />
+      <meta property="og:image" content="../../media/favicon.ico" />
       <meta name="keywords" content="le max2,mido,tissot,dipper,zippo,revengeos,revengeos downloads,revengeos for xiaomi,xiaomi,custom rom,xda revengeos,xda,download revngeos,ros,android,aosp">
       <meta name="description" content="Download RevengeOS for <?php echo getTitle(__DIR__); ?>.">
+      <script async defer data-website-id="ff9af394-4cf6-4674-9fc8-8241e42a00ac" src="https://analytics.revengeos.com/umami.js"></script>
       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
       <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
@@ -39,6 +40,17 @@ function getTitle($t){
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
    </head>
    <body>
+       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="3492580420"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
       <div id="wrapper">
       <div class="container-fluid">
          <div class="main-card">
@@ -86,6 +98,17 @@ function getTitle($t){
                   </div>
                </div>
             </div>
+             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="3492580420"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
             <div id="buttons" class="text-center">
                <button type="button" class="btn btn purple-gradient" data-toggle="modal" data-target="#modalGM">Changelog</button>
             </div>
@@ -93,5 +116,17 @@ function getTitle($t){
          
       </div>
           <script src="../../js/downloadpg.js"></script>
+          <script data-ad-client="ca-pub-5878875805175242" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="3492580420"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
    </body>
 </html>
