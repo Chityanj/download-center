@@ -1,5 +1,5 @@
 $(window).on('load', function() {
-   $.getJSON("https://raw.githubusercontent.com/Chityanj/downloads/master/maintaners.json?token=AE4MYLHK72UFKMTEWO3RPGK7SWAHM", function(data) {
+   $.getJSON("https://raw.githubusercontent.com/Chityanj/downloads/master/maintaners.json?token=AE4MYLB47XWE23QIHZKFDJC7UALG4", function(data) {
      data = data || [];
      if (data.length == 0) {
        return (document.getElementById("device_section").style.display =
