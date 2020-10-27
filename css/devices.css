@@ -136,7 +136,7 @@ img {
     
  @media only screen and (max-width: 500px) {
   .spec-col {
-     max-width: fit-content;
+     max-width: 190px;
 }    
 .spec-text {
     float: left;
