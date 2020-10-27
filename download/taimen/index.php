@@ -104,10 +104,9 @@ function getTitle($t){
                <button type="button" class="btn btn purple-gradient" data-toggle="modal" data-target="#modalGM">Changelog</button>
             </div>
          </div>
-
-      </div>
-        
-         <div style="text-align:center">
+ </div>
+</div>        
+     <div style="text-align:center">
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Auto bottom -->
 <ins class="adsbygoogle"
@@ -117,7 +116,7 @@ function getTitle($t){
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-            </div>  
+            </div>      
           
    </body>
 </html>
