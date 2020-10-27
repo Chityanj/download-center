@@ -41,8 +41,8 @@ function getTitle($t){
        <script src="../../js/downpg.min.js"></script>
     </head>
    <body>
-        <div style="height:170px;width:auto;text-align:center">
-        <div>
+        <div style="height:170px!important;width:auto;text-align:center">
+        <div style="height:170px;width:auto">
             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Auto center top -->
 <ins class="adsbygoogle"
