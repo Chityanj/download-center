@@ -4,7 +4,7 @@ $(window).on('load', function() {
 	
 	document.title = "RevengeOS | " + full_name;
 	
-		$.getJSON("https://raw.githubusercontent.com/Chityanj/downloads/master/maintaners.json?token=AE4MYLAAKERE6S5CT6VPTNK7UD2DU", function(downpg) {
+		$.getJSON("https://raw.githubusercontent.com/Chityanj/jsons/main/maintainer.json", function(downpg) {
         downpg = downpg || [];
         if (downpg.length == 0) {
           return (document.getElementById("device_section").style.display =
