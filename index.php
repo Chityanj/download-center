@@ -11,7 +11,7 @@
      
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       <meta name="keywords" content="aosp,android,google,xiaomi,realme,rom,github,revengeos,reveneos rom,download revengeos,android 11,lenovo,custom rom,xda,xda revengeos,revengeos github">
-      <meta name="description" content="Download Portal for RevengeOS.">
+      <meta name="description" content="Download RevengeOS for your phone here ! RevengeOS is Qualcomm CAF based ROM which provides unique gradients based design along with fast performance and stability">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
      <script async defer data-website-id="ff9af394-4cf6-4674-9fc8-8241e42a00ac" src="https://analytics.revengeos.com/umami.js"></script>
      <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>   
