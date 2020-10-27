@@ -1,13 +1,14 @@
 $(window).on('load', function() {
 	        var device = document.title;
-	document.title = "RevengeOS | " + device + "";
+	document.title = 'RevengeOS | " + device + "';
+	
 		$.getJSON("https://raw.githubusercontent.com/Chityanj/downloads/master/maintaners.json?token=AE4MYLB47XWE23QIHZKFDJC7UALG4", function(downpg) {
         downpg = downpg || [];
         if (downpg.length == 0) {
           return (document.getElementById("device_section").style.display =
             "none");
         }
-	    var title = document.title;
+	   
         for (var i = 0; i < downpg.length; i++) {
         if (downpg[i].codename == device){
           $("#downimg").append(`
@@ -43,7 +44,7 @@ $(window).on('load', function() {
               $("#date-value").append(formatted);
               $("#size-value").append(inMB);
        
-              $("#buttons").append(`<a href="${emp.url}"><button type="button" class="btn blue-gradient">Download</button></a>`);
+              $("#buttons").append(`<a href="${emp.url}"><button type="button" class="btn blue-gradient umami--click--download-" + device + "">Download</button></a>`);
        
        }); 
 });
