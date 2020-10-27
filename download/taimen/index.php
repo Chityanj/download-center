@@ -132,17 +132,7 @@ function getTitle($t){
         </div>
 
       </div>
-             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto center top -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="4203026862"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+            
       <!--Footer-->
       <div class="modal-footer justify-content-center">
         <span class="mr-4">Spread the word!</span>
