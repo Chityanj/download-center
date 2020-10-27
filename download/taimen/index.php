@@ -38,6 +38,7 @@ function getTitle($t){
       <link rel="stylesheet" href="../../css/devices.css" title="vue">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
         <script async defer data-website-id="a6c896cc-6841-4236-8483-be34321ecc91" src="https://analytics.revengeos.com/umami.js"></script>
+       <script src="../../js/downpg.min.js"></script>
     </head>
    <body>
         <div style="height:170px;width:auto">
@@ -110,6 +111,6 @@ function getTitle($t){
       </div>
         
           
-          <script src="../../js/downpg.min.js"></script>
+          
    </body>
 </html>
