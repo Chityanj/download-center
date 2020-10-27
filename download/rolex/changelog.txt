@@ -1,0 +1,4 @@
+switched to full vndk
+updated powerprofile to Q
+cleanedup perf configs
+switched to prebuilt gps
