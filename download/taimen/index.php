@@ -40,7 +40,19 @@ function getTitle($t){
         <script async defer data-website-id="a6c896cc-6841-4236-8483-be34321ecc91" src="https://analytics.revengeos.com/umami.js"></script>
     </head>
    <body>
-  
+        <div style="height:170px;width:auto">
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto center top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="4203026862"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
       <div id="wrapper">
       <div class="container-fluid">
          <div class="main-card">
