@@ -41,7 +41,8 @@ function getTitle($t){
        <script src="../../js/downpg.min.js"></script>
     </head>
    <body>
-        <div style="height:170px;width:auto">
+        <div style="height:170px;width:auto;text-align:center">
+        <div>
             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Auto center top -->
 <ins class="adsbygoogle"
@@ -52,7 +53,7 @@ function getTitle($t){
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script></div>
             </div>
       <div id="wrapper">
       <div class="container-fluid">
