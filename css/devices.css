@@ -27,6 +27,10 @@
     font-family: urbanist-black;
     src: url("/fonts/Urbanist-Black.woff");
 }
+html {
+    min-width: 550px;
+}
+
 body {
     margin: 0;
     font-family: urbanist;
