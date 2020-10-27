@@ -127,14 +127,15 @@
          <section class="content">
             <article id="main" class="markdown-section">
                <p><a href="#/README"></a></p>
-              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto center top -->
+             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto top -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:800px;height:140px"
+     style="display:inline-block;width:850px;height:170px"
      data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="4203026862"></ins>
+     data-ad-slot="3492580420"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 </script>
                <h1>Google</h1>
                <div id="google"></div>
@@ -149,17 +150,19 @@
                <div id="oneplus"></div>
                <h1>Realme</h1>
                <div id="realme"></div>
-               <h1>Xiaomi</h1>
-               <div id="xiaomi"></div>
-               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto center top -->
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto top -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:800px;height:140px"
+     style="display:inline-block;width:850px;height:170px"
      data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="4203026862"></ins>
+     data-ad-slot="3492580420"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</script>
+               <h1>Xiaomi</h1>
+               <div id="xiaomi"></div>
+               
                <hr>
             </article>
          </section>
