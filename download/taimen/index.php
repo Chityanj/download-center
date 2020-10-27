@@ -45,7 +45,7 @@ function getTitle($t){
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Auto bottom -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:auto;height:130px"
+     style="display:inline-block;width:130px;height:130px"
      data-ad-client="ca-pub-5878875805175242"
      data-ad-slot="5426864223"></ins>
 <script>
