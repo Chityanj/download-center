@@ -1,6 +1,8 @@
 $(window).on('load', function() {
 	        var device = document.title;
-	document.title = 'RevengeOS | " + device + "';
+	const full_name = document.title;
+	
+	document.title = "RevengeOS | " + full_name;
 	
 		$.getJSON("https://raw.githubusercontent.com/Chityanj/downloads/master/maintaners.json?token=AE4MYLB47XWE23QIHZKFDJC7UALG4", function(downpg) {
         downpg = downpg || [];
