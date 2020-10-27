@@ -8,18 +8,14 @@
       <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
       <link rel="manifest" href="images/favicons/site.webmanifest">
       <script async defer data-website-id="ff9af394-4cf6-4674-9fc8-8241e42a00ac" src="https://analytics.revengeos.com/umami.js"></script>
-      <meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE">
+     
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       <meta name="keywords" content="aosp,android,google,xiaomi,realme,rom,github,revengeos,reveneos rom,download revengeos,android 11,lenovo,custom rom,xda,xda revengeos,revengeos github">
       <meta name="description" content="Download Portal for RevengeOS.">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
       <script async defer data-website-id="a6c896cc-6841-4236-8483-be34321ecc91" src="https://analytics.revengeos.com/umami.js"></script>
-     <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-      <script src="js/devices.js"></script>
-      <script src="js/sidebar.js"></script>
-      
-     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">
-      
+     <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>   
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">  
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
        <link rel="stylesheet" href="css/styles.css" title="vue">
    
@@ -72,17 +68,6 @@
                </div>
                <div class="results-panel"></div>
             </div>
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto top -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="3492580420"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
             <h1 class="app-name"><a class="app-name-link" data-nosearch="" href="/">devices</a></h1>
             <div class="sidebar-nav">
                 <ul>
@@ -133,17 +118,7 @@
          <section class="content">
             <article id="main" class="markdown-section">
                <p><a href="#/README"></a></p>
-               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto top -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="3492580420"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+               
                <h1>Google</h1>
                <div id="google"></div>
                <h1>LeEco</h1>
@@ -153,16 +128,7 @@
                <h1>Moto</h1>
                <div id="motorola"></div>
                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto top -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="3492580420"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
                <h1>Oneplus</h1>
                <div id="oneplus"></div>
                <h1>Realme</h1>
@@ -173,11 +139,10 @@
             </article>
          </section>
       </main>
-     
-     <script src="js/cover.js"></script>
-      <script src="js/toggle.js"></script>
-      <script></script>
-      <div class="progress" style="opacity: 0; width: 0%;"></div>
- <script data-ad-client="ca-pub-5878875805175242" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+     <script src="js/devices.min.js"></script>
+      <script src="js/sidebar.min.js"></script>
+     <script src="js/cover.min.js"></script>
+      <script src="js/toggle.min.js"></script>
+    
    </body>
 </html>
