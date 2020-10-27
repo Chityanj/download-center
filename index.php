@@ -127,8 +127,7 @@
                <div id="lenovo"></div>
                <h1>Moto</h1>
                <div id="motorola"></div>
-               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
+              
                <h1>Oneplus</h1>
                <div id="oneplus"></div>
                <h1>Realme</h1>
