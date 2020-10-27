@@ -141,7 +141,7 @@
      <script src="js/devices.min.js"></script>
       <script src="js/sidebar.min.js"></script>
      <script src="js/cover.min.js"></script>
-      <script src="js/toggle.min.js"></script>
+      <script src="js/toogle.min.js"></script>
     
    </body>
 </html>
