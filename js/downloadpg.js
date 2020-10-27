@@ -46,7 +46,7 @@ $(window).on('load', function() {
               $("#date-value").append(formatted);
               $("#size-value").append(inMB);
        
-              $("#buttons").append(`<a href="${emp.url}"><button type="button" class="btn blue-gradient umami--click--download-" + device + "">Download</button></a>`);
-       
+              $("#buttons").append(`<a href="${emp.url}"><button type="button" id="downbut" class="btn blue-gradient " + device + "">Download</button></a>`);
+       document.getElementById('downbut').classList.add('umami--click--download-'+ full_name);
        }); 
 });
