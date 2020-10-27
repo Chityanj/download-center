@@ -1,2 +1,0 @@
-Boardconfig: sync boot image header with OOS
-devicesettings: updated panel modes

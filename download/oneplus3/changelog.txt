@@ -1,4 +1,0 @@
-Device Changelog(all credits to Gaurav) :-
-1) Update ( ADSP/Time/Media/CNE/WFD/Radio/Radio-IMS/FM/Sensors/Charger/DRM/Gatekeeper/Keystore/Power-off alarm/BT/GPS/Graphics/Perf/QCRIL ) blobs from LA.UM.8.6.2.r1-06600-89xx.0
-2) Update (Graphics/Postprocessing) blobs from miuiDAISYGlobalV11.0.2.0
-3) Carrier/PowerHint/Hostpad/Tunning Mixer Config updated from LA.UM.8.6.2.r1-06600-89xx.0

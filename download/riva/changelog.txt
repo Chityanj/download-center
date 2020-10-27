@@ -1,8 +1,0 @@
-Enable full VNDK
-Switched to prebuilt gps
-Updated power profile
-Use default fp
-Some minor optimization/cleanup
-Lag on homescreen
-Change wallpaper if you encounter UI lags
-	

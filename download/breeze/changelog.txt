@@ -1,3 +1,0 @@
-Add QPGallery
-Add MiXplorer
-Change device name

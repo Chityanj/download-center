@@ -1,7 +1,0 @@
-Redesigned Volume dialog with quick player (rolling out on selected devices)
-July security patches
-QTI bluetooth stack
-UI fixes
-Allow recording protected content
-Introduce RevengeOS Calculator
-Context aware at a glance widget - with greetings and calendar events
