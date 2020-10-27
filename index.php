@@ -20,7 +20,6 @@
        <link rel="stylesheet" href="css/styles.css" title="vue">
        <script src="js/devices.min.js"></script>
       <script src="js/sidebar.min.js"></script>
-     <script src="js/cover.min.js"></script>
       <script src="js/toogle.min.js"></script>
    
    </head>
@@ -176,6 +175,6 @@
          </section>
       </main>
     
-    
+    <script src="js/cover.min.js"></script>
    </body>
 </html>
