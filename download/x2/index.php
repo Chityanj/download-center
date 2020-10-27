@@ -12,10 +12,10 @@ function getTitle($t){
       <meta http-equiv="Expires" content="-1">
       <meta charset="UTF-8">
       <title><?php echo getTitle(__DIR__); ?></title>
-      <link rel="icon" href="../../media/favicon.ico">
+      <link rel="icon" href="../../images/favicons/favicon.ico">
       <meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <meta property="og:image" content="../../media/favicon.ico" />
+      <meta property="og:image" content="../../images/favicons/favicon.ico" />
       <meta name="keywords" content="le max2,mido,tissot,dipper,zippo,revengeos,revengeos downloads,revengeos for xiaomi,xiaomi,custom rom,xda revengeos,xda,download revngeos,ros,android,aosp">
       <meta name="description" content="Download RevengeOS for <?php echo getTitle(__DIR__); ?>.">
       <script async defer data-website-id="ff9af394-4cf6-4674-9fc8-8241e42a00ac" src="https://analytics.revengeos.com/umami.js"></script>
