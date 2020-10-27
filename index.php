@@ -28,7 +28,7 @@
       <section class="cover show">
          <div class="mask"></div>
          <div class="cover-main">
-            <h1 id="revengeos-downloads"><a href="#/?id=revengeos-downloads" data-id="revengeos-downloads" class="anchor"><span>RevengeOS | Downloads</span></a></h1>
+            <h1 id="revengeos-downloads"><a href="/downloads" data-id="revengeos-downloads" class="anchor"><span>RevengeOS | Downloads</span></a></h1>
            
             <div class="container-flexible">
                <div class="container-flexible">
