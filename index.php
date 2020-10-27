@@ -67,6 +67,15 @@
                   </div>
                </div>
                <div class="results-panel"></div>
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- inbtw -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="9828005558"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
             </div>
             <h1 class="app-name"><a class="app-name-link" data-nosearch="" href="/">devices</a></h1>
             <div class="sidebar-nav">
@@ -118,14 +127,12 @@
          <section class="content">
             <article id="main" class="markdown-section">
                <p><a href="#/README"></a></p>
-               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Auto center top -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:inline-block;width:800px;height:140px"
      data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="4203026862"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-ad-slot="4203026862"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -144,6 +151,15 @@
                <div id="realme"></div>
                <h1>Xiaomi</h1>
                <div id="xiaomi"></div>
+               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto center top -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:800px;height:140px"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="4203026862"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
                <hr>
             </article>
          </section>
@@ -152,16 +168,6 @@
       <script src="js/sidebar.min.js"></script>
      <script src="js/cover.min.js"></script>
       <script src="js/toogle.min.js"></script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto center top -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="4203026862"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+    
    </body>
 </html>
