@@ -1,0 +1,4 @@
+Initial Official build!
+Added smartwake
+Added Vooc charging
+Added 3 finger swipe ss

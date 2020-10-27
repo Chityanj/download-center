@@ -1,0 +1,6 @@
+Reverted disabling Nearby DiscoveryService
+Adjust auto-brightness minimum/maximum levels
+Added AOSP RCS packages
+Set Google autofill service as default (user-changeable)
+Increase number of visible notification icons
+Fix possible issues with strings post OTA update
