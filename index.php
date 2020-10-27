@@ -155,16 +155,19 @@
                <div id="oneplus"></div>
                <h1>Realme</h1>
                <div id="realme"></div>
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto top -->
+               
+               <div>
+           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Auto center top -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:850px;height:170px"
+     style="display:block"
      data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="3492580420"></ins>
+     data-ad-slot="4203026862"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</script>
+</script></div>
                <h1>Xiaomi</h1>
                <div id="xiaomi"></div>
                
