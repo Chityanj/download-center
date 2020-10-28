@@ -25,7 +25,7 @@
    </head>
    <body data-page="README.md" class="ready">
       <nav class="app-nav no-badge"></nav>
-      <section class="cover show" style="background: linear-gradient(to top right,rgba(100, 213, 251, 0.3),rgba(228, 166, 249, 0.5)) fixed;">
+      <section class="cover show" style="background: linear-gradient(to top right,rgba(100, 213, 251, 0.9),rgba(228, 166, 249, 1)) fixed;">
          <div class="mask"></div>
          <div class="cover-main">
             <h1 id="revengeos-downloads"><a href="/downloads" data-id="revengeos-downloads" class="anchor"><span>RevengeOS | Downloads</span></a></h1>
