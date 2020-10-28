@@ -178,6 +178,6 @@
          </section>
       </main>
     
-    <script src="js/cover.min.js"></script>
+   
    </body>
 </html>
