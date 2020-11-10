@@ -1,5 +1,4 @@
-Hotfix for Bluetooth
-Kernel upstreamed to Predator 8.6
-Added prebuilt Google Camera
-Updated to OpenGL-ES-3.2-V@490_Vulkan-1.1.128
-Updated build fingerprint to QD4A.200905.003 from Coral (Enforcing Build)
+Fixed Deep Sleep issue
+Fixed 5.0 GHz Wi-Fi Hotspot no internet connection
+Fixed Quick Settings tiles rows in portrait mode while expanded
+Updated Build fingerprint to Coral's November fingerprint

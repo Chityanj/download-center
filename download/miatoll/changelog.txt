@@ -1,0 +1,2 @@
+Initial official release
+Etherious Kernel 4.14.203 as default kernel

@@ -1,5 +1,0 @@
-Overall smoothness improvements
-Updated schedtune config
-Switch back to 100Hz timer frequency
-Switched to PELT scheduling
-Updated kernel to 4.14.191 LA.UM.8.1.r1-15400-sm8150.0

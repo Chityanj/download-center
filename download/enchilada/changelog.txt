@@ -1,2 +1,4 @@
-Boardconfig: sync boot image header with OOS
-devicesettings: updated panel modes
+initial r build
+BT audio fixed
+Kernel upstreamed
+
