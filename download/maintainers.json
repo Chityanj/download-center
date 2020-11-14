@@ -337,5 +337,14 @@
         "maintainer": "Zhenxiang Chen",
         "telegram": "Lucchetto_m",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"
+    },
+
+    "kunlun2":
+    {
+        "brand": "Lenovo",
+        "name": "Z6 Lite",
+        "maintainer": "Giammarco Senatore",
+        "telegram": "GiaSen",
+        "xda_thread": ""
     }
 }

@@ -1,2 +1,2 @@
-Initial official release
-Etherious Kernel 4.14.203 as default kernel
+Fixed Screen Recorder
+Etherious Kernel 4.14.206 as default kernel
