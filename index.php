@@ -1,26 +1,25 @@
 <html lang="en">
    <head>
      
-      <meta charset="UTF-8">
-      <title>RevengeOS | Downloads</title>
-      <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
-      <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
-      <link rel="manifest" href="images/favicons/site.webmanifest">
-      <script data-ad-client="ca-pub-5878875805175242" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-     <meta name="msvalidate.01" content="46AF6B9DBF53414E91ACA1D57152D68F" />
-      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <meta name="keywords" content="aosp,android,google,xiaomi,realme,rom,github,revengeos,reveneos rom,download revengeos,android 11,lenovo,custom rom,xda,xda revengeos,revengeos github">
-      <meta name="description" content="Download RevengeOS for your phone here ! RevengeOS is Qualcomm CAF based ROM which provides unique gradients based design along with fast performance and stability">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-     <script async defer data-website-id="ff9af394-4cf6-4674-9fc8-8241e42a00ac" src="https://analytics.revengeos.com/umami.js"></script>
-     <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>   
-     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">  
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+       <meta charset="UTF-8">
+       <title>RevengeOS | Downloads</title>
+       <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
+       <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
+       <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
+       <link rel="manifest" href="images/favicons/site.webmanifest">
+       <script data-ad-client="ca-pub-5878875805175242" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+       <meta name="msvalidate.01" content="46AF6B9DBF53414E91ACA1D57152D68F" />
+       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+       <meta name="description" content="Download RevengeOS for your phone here ! RevengeOS is Qualcomm CAF based ROM which provides unique gradients based design along with fast performance and stability">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+       <script async defer data-website-id="ff9af394-4cf6-4674-9fc8-8241e42a00ac" src="https://analytics.revengeos.com/umami.js"></script>
+       <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>   
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">  
+       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
        <link rel="stylesheet" href="css/styles.css" title="vue">
-       <script src="js/devices.min.js"></script>
-      <script src="js/sidebar.min.js"></script>
-      <script src="js/toogle.min.js"></script>
+          <script src="js/devices.min.js"></script>
+         <script src="js/sidebar.min.js"></script>
+         <script src="js/toogle.min.js"></script>
    
    </head>
    <body data-page="README.md" class="ready">
