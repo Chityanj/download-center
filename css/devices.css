@@ -39,8 +39,7 @@ body {
     color: #212529;
     text-align: left;
     min-width: 550px;
-    background: linear-gradient(to top right,rgba(100, 213, 251, 0.3),rgba(228, 166, 249, 0.5)) fixed;
-}
+    background: url(https://raw.githubusercontent.com/RevengeOS/revengeos.com/master/assets/img/Logo%20alpha.svg) bottom -30vh right -30vh/auto 100% no-repeat,linear-gradient(135deg,#87d1f1,#d9dbe5) 0/auto 100% no-repeat;
 
 #wrapper {
     display: flex;
