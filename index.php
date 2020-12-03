@@ -69,15 +69,6 @@
                   </div>
                </div>
                <div class="results-panel"></div>
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- inbtw -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:250px"
-     data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="9828005558"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
             </div>
             <h1 class="app-name"><a class="app-name-link" data-nosearch="" href="/">devices</a></h1>
             <div class="sidebar-nav">
@@ -127,19 +118,10 @@
                </div>
          </aside>
          <section class="content">
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto center top -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="4203026862"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+            
             <article id="main" class="markdown-section">
-             
+               <h1>Asus</h1>
+               <div id="asus"></div>
                <h1>Google</h1>
                <div id="google"></div>
                <h1>LeEco</h1>
@@ -153,21 +135,6 @@
                <div id="oneplus"></div>
                <h1>Realme</h1>
                <div id="realme"></div>
-               
-               <div>
-           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto center top -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="4203026862"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-               </div>
-               <div></div>
                
                <h1>Xiaomi</h1>
                <div id="xiaomi"></div>
