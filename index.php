@@ -73,6 +73,12 @@
             <h1 class="app-name"><a class="app-name-link" data-nosearch="" href="/">devices</a></h1>
             <div class="sidebar-nav">
                 <ul>
+                    <li>
+      <p>Asus</p>
+      <ul>
+         <div id=asusslider></div>
+      </ul>
+   </li>
    <li>
       <p>Google</p>
       <ul>
