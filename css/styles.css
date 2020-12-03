@@ -92,6 +92,10 @@ body {
   columns: 3;
   width: 100%;
 }
+#asus {
+  columns: 3;
+  width: 100%;
+}
 #leeco {
   columns: 3;
   width: 100%;
@@ -119,6 +123,12 @@ body {
 }
 @media only screen and (max-width: 1200px) {
   #xiaomi {
+    columns: 1;
+   width: 100%;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  #asus {
     columns: 1;
    width: 100%;
   }
@@ -161,6 +171,19 @@ body {
 }
 
 #google section {
+  width: 100%;
+  display: inline-block;
+  border-radius: 14px;
+  color: var(--text-color);
+  border: 3px solid rgb(0, 0, 0, 0.04);
+  box-shadow: 0px 0px 0px rgb(0, 0, 0, 0);
+  transition: 0.4s ease-in-out;
+  transform: scale(1);
+  padding: 0px;
+  margin: 5% 0;
+  text-align: center;
+}
+#asus section {
   width: 100%;
   display: inline-block;
   border-radius: 14px;
@@ -256,6 +279,11 @@ body {
   height: 300px;
   border-radius: 5px 5px 0px 0px;
 }
+#asus section img {
+  width: auto;
+  height: 300px;
+  border-radius: 5px 5px 0px 0px;
+}
 #leeco section img {
   width: auto;
   height: 300px;
@@ -291,6 +319,12 @@ body {
 }
 
 #xiaomi section:hover {
+  cursor: pointer;
+  border: 1px solid rgb(0, 0, 0, 0);
+  box-shadow: 0px 15px 35px rgb(0, 0, 0, 0.06);
+  transform: scale(1.03);
+}
+#asus section:hover {
   cursor: pointer;
   border: 1px solid rgb(0, 0, 0, 0);
   box-shadow: 0px 15px 35px rgb(0, 0, 0, 0.06);
