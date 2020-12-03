@@ -1,2 +1,1 @@
-Latest changes from LineageOS sdm660-common device tree
-Upstreamed kernel
+Initial release

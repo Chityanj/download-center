@@ -1,4 +1,4 @@
-initial r build
-BT audio fixed
 Kernel upstreamed
-
+Added OnePlus recents
+Added OPCam/Gallery
+and some other stuff you probably wont understand so let's skip that, kthx

@@ -1,4 +1,5 @@
-Fixed Deep Sleep issue
-Fixed 5.0 GHz Wi-Fi Hotspot no internet connection
-Fixed Quick Settings tiles rows in portrait mode while expanded
-Updated Build fingerprint to Coral's November fingerprint
+Go Permissive!
+Fixed greenish video recording.
+Fixed WFD "Cast."
+Added missing Blur.
+Added LiveDisplay.

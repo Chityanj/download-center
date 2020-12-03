@@ -1,10 +1,12 @@
-Added bass booster preset for MiSound
-Disabled speaker protection feature in audio HAL
-Optimised battery usage
-Added KCAL support 
-Fixed camera yellow tint
-Monochrome theme is default for now 
-Gradients are enabled except for qs tiles 
-Added back Redesigned Volume dialog with quick player
-Improved qs blur smoothness
-Fixed showing Double Battery charging Info on lockscreen
+Offline charging bug fixed.
+Switched to quicksilver kernel upstremed to V.209.
+Updated blobs from MIUI 12.0.2
+Added Nov security patch From Redfin.
+Added back XiaomiParts.
+Gcam Hdr Bug fixed.
+Double Tap To Wake fixed.
+Fixed Wifi Display ( screen casting ).
+Shipped GcamGo instead Of Aosp Cam.
+Fixed Whatsapp Web QR code scanning issue.
+Fixed Baseband String duplication in About Phone.
+More improvements and fixes.

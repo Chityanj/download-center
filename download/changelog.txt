@@ -1,3 +1,7 @@
+Heads Up toggle
+Live Display
+Performance improvements
+Minor bug fixes
 Updated theme app
 November security patches
 New RevengeUI, completely Redesigned

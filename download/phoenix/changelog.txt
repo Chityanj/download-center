@@ -1,7 +1,3 @@
-Updated FP to Coral August Security patch
-Upstreamed kernel to 4.14.193
-Added latest AnxCamera
-Fix padding on top QS
-Enable Night Display
-Start bootanim even earlier
-Address more Denials
+Initial Release
+Upstreamed kernel to 4.14.209
+

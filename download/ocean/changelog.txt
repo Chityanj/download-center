@@ -1,1 +1,1 @@
-Initial Official build!
+Fix vendor.display.config related crashes (Chrome, Amazon)

@@ -2,12 +2,13 @@
     "error": false,
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
-    "news_url": "https://t.me/revengeos_enchilada",
-    "datetime": 1604680697.471343,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-enchilada-20201106-1230.zip",
+    "news_url": "https://t.me/coderastic_enchilada",
+    "datetime": 1605847459.3575866,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-enchilada-20201120-0407.zip",
     "id": "",
-    "size": "513356709",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fenchilada%2FRevengeOS-4.0-R-OFFICIAL-enchilada-20201106-1230.zip",
+    "size": "689303225",
+    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fenchilada%2FRevengeOS-4.0-R-OFFICIAL-enchilada-20201120-0407.zip",
+    "download_new": "https://download.revengeos.com/download/enchilada",
     "version": "4.0",
-    "filehash": "0616d479eaf7e75d13b6a597e367fb72"
+    "filehash": "1dfdb861ab1fa2907099fb35c2c3ed22"
 }

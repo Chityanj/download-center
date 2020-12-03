@@ -1,1 +1,2 @@
-Initial build
+Fixed all audio issues
+Added LiveDisplay

@@ -1,9 +1,8 @@
-Switch to cannon kernel
-Merge 4.9.232 on kernel
-Merge caf tag LA.UM.8.6.2.r1-08100-89xx.0 on kernel
-Fixed gcam freezes
-Other goodies from cannon kernel
-Update ADSP , Audio and CDSP blobs from daisy-q
-Fix up few values 
-Disable interaction boost
+Merge linux 4.9.241 on kernel
+Update Audio, Media and Permissions configs from LA.UM.9.6.2.r1-02100-89xx.0
+Import qti-telephony-common from cmi
+Switch to Aidl Power Hal
+Fix Hotspot issues
+Fix WFD "cast" 
+Fix Bluetooth audio
 Misc improvement

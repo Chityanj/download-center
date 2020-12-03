@@ -1,2 +1,10 @@
-Initial build
-Powered by Quantic Kernel, 4.14.188
+!! CLEAN FLASH HIGHLY SUGGESTED !!
+Now enforcing, enjoy a secure and smooth experience!
+Upstreamed kernel to 4.14.208 (Quantic Kernel)
+Addressed ALOT of denials
+Switched back to old surfaceflinger props
+CTS passed by default
+Fixed in-call mic while having ok google on
+Added LiveDisplay sunlight enhancement
+Updated blobs from 12.0.3.0 global, as well as vendor sec patch
+Switch to OSS vibrator HAL

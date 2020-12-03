@@ -93,7 +93,7 @@
         "telegram": "Introdructor",
         "xda_thread":"https://forum.xda-developers.com/redmi-note-8/development/rom-revengeos-3-0-redmi-note-8-8tginkgo-t4132113"
     },
-    
+
     "gram":
     {
         "brand": "POCO",
@@ -123,7 +123,7 @@
         "name": "Redmi Note 7",
         "maintainer": "Raiyan Shishir",
         "telegram": "raiyanshishir07",
-        "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-revengeos-3-0-lavender-t4027781"
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-revengeos-4-0-xiaomi-redmi-note-7-t4194405"
     },
 
     "miatoll":
@@ -167,7 +167,7 @@
         "name": "X2",
         "maintainer": "HaroonHarish",
         "telegram": "harooo0913",
-        "xda_thread": ""
+        "xda_thread": "https://forum.xda-developers.com/t/r-aosp-revengeos-4-0-device-phoenix-official.4137995"
     },
 
     "platina":
@@ -277,7 +277,7 @@
         "telegram": "star2834",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/aosp-rom-revengeos-3-0-xiaomi-redmi-t4139767"
     },
-    
+
     "wayne":
     {
         "brand": "Xiaomi",
@@ -327,7 +327,7 @@
         "name": "Redmi S2",
         "maintainer": "Giovanni Ricca",
         "telegram": "GiovanniRN5",
-        "xda_thread": "https://forum.xda-developers.com/redmi-s2/development/rom-revengeos-3-0-redmi-s2-y2-ysl-t4051315"
+        "xda_thread": "https://forum.xda-developers.com/redmi-s2/development/rom-revengeos-4-0-redmi-s2-y2-ysl-t4181267"
     },
 
     "zippo":
@@ -346,5 +346,13 @@
         "maintainer": "Giammarco Senatore",
         "telegram": "GiaSen",
         "xda_thread": "https://forum.xda-developers.com/android/development/rom-revengeos-4-0-z6-lite-k10-note-t4190163"
+    },
+    "X01BD":
+    {
+         "brand": "ASUS",
+         "name": "Zenfone Max Pro M2",
+         "maintainer": "Priyanshu Gupta",
+         "telegram": "prigup",
+         "xda_thread": ""
     }
 }

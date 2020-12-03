@@ -3,11 +3,12 @@
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1597649928.351013,
-    "filename": "RevengeOS-3.2-Q-OFFICIAL-ysl-20200816-1136.zip",
+    "datetime": 1605452584.7742624,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-ysl-20201114-1906.zip",
     "id": "",
-    "size": "623868246",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fysl%2FRevengeOS-3.2-Q-OFFICIAL-ysl-20200816-1136.zip",
-    "version": "3.2",
-    "filehash": "4074bd464b942a807001585d27ceb49a"
+    "size": "702253512",
+    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fysl%2FRevengeOS-4.0-R-OFFICIAL-ysl-20201114-1906.zip",
+    "download_new": "https://download.revengeos.com/download/ysl",
+    "version": "4.0",
+    "filehash": "ac0ca915522f9ffe0d6dcbc81b4c3702"
 }
