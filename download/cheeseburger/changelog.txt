@@ -1,0 +1,6 @@
+Volume panel position changed to left
+Added Oneplus Settings(Panel modes and slider setting)
+Added DC dimming tile
+Added Revenge kernel v2.0
+Made changes to WiFi loading
+Made changes to VoLTE stuff

@@ -34,6 +34,15 @@
         "telegram": "Giovix92",
         "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-revengeos-4-0-mi-9-cepheus-t4173859"
     },
+    
+    "cheeseburger":
+    {
+        "brand": "OnePlus",
+        "name": "5",
+        "maintainer": "Karthik N",
+        "telegram": "zorock",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
+    },
 
     "chiron":
     {
@@ -43,7 +52,7 @@
         "telegram": "xSylla",
         "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-revengeos-4-0-chiron-t4184711"
     },
-
+        
     "curtana":
     {
         "brand": "Redmi",
@@ -67,6 +76,15 @@
         "maintainer": "Ethan Halsall",
         "telegram": "ethanhalsall",
         "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-revengeos-2-4-dippper-t3942956"
+    },
+    
+    "dumpling":
+    {
+        "brand": "OnePlus",
+        "name": "5T",
+        "maintainer": "Karthik N",
+        "telegram": "zorock",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     },
 
     "enchilada":
@@ -353,6 +371,6 @@
          "name": "Zenfone Max Pro M2",
          "maintainer": "Priyanshu Gupta",
          "telegram": "prigup",
-         "xda_thread": ""
+         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-x01bd-revengeos-4-0-official.4197609"
     }
 }
