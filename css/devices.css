@@ -28,7 +28,7 @@
     src: url("/fonts/Urbanist-Black.woff");
 }
 html {
-    min-width: 550px;
+    
 }
 
 body {
@@ -38,7 +38,6 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    min-width: 550px;
     background: rgba(255, 255, 255, 0.2); // Make sure this color has an opacity of less than 1
     backdrop-filter: blur(8px); // This be the blur
 }
