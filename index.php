@@ -7,7 +7,6 @@
        <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
        <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
        <link rel="manifest" href="images/favicons/site.webmanifest">
-       <script data-ad-client="ca-pub-5878875805175242" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
        <meta name="msvalidate.01" content="46AF6B9DBF53414E91ACA1D57152D68F" />
        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
        <meta name="description" content="Download RevengeOS for your phone here ! RevengeOS is Qualcomm CAF based ROM which provides unique gradients based design along with fast performance and stability">
@@ -150,6 +149,6 @@
          </section>
       </main>
     
-   
+   <script data-ad-client="ca-pub-5878875805175242" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
    </body>
 </html>
