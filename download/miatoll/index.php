@@ -41,12 +41,14 @@ function getTitle($t){
     </head>
    <body>
         <div style="text-align:center">
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto bottom -->
+       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ssitetop -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:780px;height:130px"
+     style="display:block"
      data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="5426864223"></ins>
+     data-ad-slot="3544112272"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -106,12 +108,14 @@ function getTitle($t){
  </div>
 </div>        
      <div style="text-align:center">
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Auto bottom -->
+       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ssitetop -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:780px;height:130px"
+     style="display:block"
      data-ad-client="ca-pub-5878875805175242"
-     data-ad-slot="5426864223"></ins>
+     data-ad-slot="3544112272"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
