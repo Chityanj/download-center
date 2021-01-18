@@ -1,0 +1,2 @@
+Deep sleep drain improvements
+Fixed missing apps from PlayStore

@@ -1,10 +1,3 @@
-Heads Up toggle
-Live Display
-Performance improvements
-Minor bug fixes
-Updated theme app
-November security patches
-New RevengeUI, completely Redesigned
-RevengeLauncher, like Launcher3 but much better and nicer
-Added back many features from 3.x
-Weather in lockscreen
+Include Simple Weather app
+January security patch
+Added Advanced reboot

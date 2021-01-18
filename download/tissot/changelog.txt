@@ -1,6 +1,4 @@
-Upstreamed Kernel to v4.9.230 (GKernel v1.0)
-Upstreamed blobs to LA.UM.8.6.2.r1-07600-89xx.0
-Added missing WFC overlay
-Updated GPS configs
-Fixed A2DP issue
-Addressed some more denials, still permissive
+SELinux is now Enforcing
+Revert Soundtrigger to v2.2 (This fixes the Bluetooth Audio problem)
+Update Bluetooth aptX blobs from Crosshatch
+Minor Improvements

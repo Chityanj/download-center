@@ -1,13 +1,14 @@
 {
     "error": false,
-    "donate_url": "https://paypal.me/lucchetto",
+    "donate_url": "\u001b[C",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/revengemi9t",
-    "datetime": 1605169226.1443062,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-davinci-20201111-1523.zip",
+    "datetime": 1608701660.4578645,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-davinci-20201223-0354.zip",
     "id": "",
-    "size": "877816583",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fdavinci%2FRevengeOS-4.0-R-OFFICIAL-davinci-20201111-1523.zip",
+    "size": "957663729",
+    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fdavinci%2FRevengeOS-4.0-R-OFFICIAL-davinci-20201223-0354.zip",
+    "download_new": "https://download.revengeos.com/download/davinci",
     "version": "4.0",
-    "filehash": "e694c139854b2cb7cd737e3faff6be4b"
+    "filehash": "c1bf0d1b329c4ce431146399b3d72c74"
 }

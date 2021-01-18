@@ -1,9 +1,9 @@
-New Fod implementation.(Thanks to @dev_harsh1998)
-Added Raise To Wake Gesture.
-Added Moto Dolby.
-Added LiveDisplay.
-Added Battery Health.
-Fixed FOD Flicker.
-Fixed All known issues.
-More Improvements.
-
+December security patch
+Fixed Proximity fully
+Fixed AOD
+New RevengeUI, completely Redesigned
+RevengeLauncher, like Launcher3 but much better and nicer
+Updated RevengeLauncher
+Updated Theme app
+Added Live display
+Added back many features from Android 10

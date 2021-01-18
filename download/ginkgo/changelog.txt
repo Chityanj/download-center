@@ -1,12 +1,7 @@
-Offline charging bug fixed.
-Switched to quicksilver kernel upstremed to V.209.
-Updated blobs from MIUI 12.0.2
-Added Nov security patch From Redfin.
-Added back XiaomiParts.
-Gcam Hdr Bug fixed.
-Double Tap To Wake fixed.
-Fixed Wifi Display ( screen casting ).
-Shipped GcamGo instead Of Aosp Cam.
-Fixed Whatsapp Web QR code scanning issue.
-Fixed Baseband String duplication in About Phone.
-More improvements and fixes.
+Updated Security patch to December.
+Fixed Nfc.
+Rebased kernel on latest CAF tag and upstreamed to v4.14.212
+Fixed Encryption.
+Updated graphics, display and perf blobs to R (LA.UM.9.11.r1-02400-NICOBAR.0).
+fixed Bluetooth issue.
+Fixed mobile data not working issue .

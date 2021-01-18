@@ -1,2 +1,5 @@
-Fixed Screen Recorder
-Etherious Kernel 4.14.206 as default kernel
+Switch to Redfin December build fingerprint
+Update blobs from miui 12.0.2.1
+Kang soundtrigger hal & SDM blobs from NX627J RKQ1.200826.002
+Update widevine & adreno blobs from NX627J RKQ1.200826.002
+Etherious Kernel 4.14.212 as default kernel

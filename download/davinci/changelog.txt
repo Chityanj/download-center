@@ -1,7 +1,3 @@
-fix NFC
-fix BT audio and static noise
-new revengeui
-enabled blur by default
-added popup calibration
-switch to 1.3 power hal(more smooth)
-
+switch to AIDL Power HAL
+Fix chrome problems and other DRM issues
+Added KCAL impl

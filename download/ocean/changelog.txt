@@ -1,1 +1,1 @@
-Fix vendor.display.config related crashes (Chrome, Amazon)
+Reintroduce RevengeUI forgotten in last build

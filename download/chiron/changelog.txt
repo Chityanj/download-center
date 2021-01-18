@@ -1,0 +1,4 @@
+Based on new kernel
+Fixed laggy system recorder
+Fixed CPU always at 100%
+Fixed many things

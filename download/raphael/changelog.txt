@@ -1,7 +1,7 @@
-Decrease light sensor warmup time
-Fix fluence voice recording
-FOD improvements
-Added battery stats reset
-More media volume steps added
-Fix pickup sensors
-Other improvements
+Android R first our build back after a while 
+Include January security patches
+Include revenge Weather app
+Include FOD Animation with selector
+Improve FOD
+Other improvements and translations
+

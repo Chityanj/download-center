@@ -162,6 +162,15 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-revengeos-3-2-xiaomi-redmi-note-4x-t4095201"
     },
 
+    "monet":
+    {
+        "brand": "Xiaomi",
+        "name": "Mi 10 Lite 5G",
+        "maintainer": "xSylla",
+        "telegram": "xSylla",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-revengeos-4-0-monet-work-in-progress.4208653"
+    },
+
     "ocean":
     {   "brand": "Motorola",
         "name": "Moto G7 Power",
@@ -230,7 +239,7 @@
         "name": "XT",
         "maintainer": "Kader Bava",
         "telegram": "Bava7325",
-        "xda_thread": "https://forum.xda-developers.com/realme-xt/development/rom-revengeos-3-2-q-realme-xt-t4067217"
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-rmx1921-revengeos-4-0-r-for-realme-xt.4165069"
     },
 
     "rolex":
@@ -273,9 +282,18 @@
     {
         "brand": "Xiaomi",
         "name": "Mi A1",
-        "maintainer": "Giovix92",
-        "telegram": "Giovix92",
-        "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-revengeos-3-0-tissot-t4018869"
+        "maintainer": "Takeshiro",
+        "telegram": "Takeshiro",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-beta-revengeos-v4-0-2020-12-27.4208981/"
+    },
+
+    "toco":
+    {
+        "brand": "Xiaomi",
+        "name": "Mi Note 10 Lite",
+        "maintainer": "AndroidHQ254",
+        "telegram": "DennisMurimiWachira",
+        "xda_thread": ""
     },
 
     "tulip":
@@ -372,5 +390,21 @@
          "maintainer": "Priyanshu Gupta",
          "telegram": "prigup",
          "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-x01bd-revengeos-4-0-official.4197609"
+    },
+    "begonia": 
+    {
+ 	    "brand": "Xiaomi",
+ 	    "name": "Redmi Note 8 Pro",
+ 	    "maintainer": "NextWorks",
+ 	    "telegram": "NextWorksGFX",
+ 	    "xda_thread": ""
+    },
+    "violet":
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi Note 7 Pro",
+        "maintainer": "Prabhav Sharma",
+        "telegram": "Jbbbrand_on",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-r-revengeos-redmi-note-7-pro-violet.4208611/"
     }
 }

@@ -1,5 +1,5 @@
-Go Permissive!
-Fixed greenish video recording.
-Fixed WFD "Cast."
-Added missing Blur.
-Added LiveDisplay.
+Switched back to AOSP BT stack
+Removed L1 support to fix Netflix crashes
+Updated blobs from LA.UM.8.2.r1-07400-sdm660.0
+Updated fingerprint from Redfin - RQ1A.210105.003
+Enabled VR high perfomance options

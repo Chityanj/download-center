@@ -1,0 +1,14 @@
+Included VoidKernel as Stock Kernel 
+Added VoidTouch v0.2
+Selinux Permissive
+Included ANXCamera And GCamGo
+Included XiaomiParts 
+Enabled 2160p Playback on Youtube
+Switched to OSS IMS & VT Service (Thanks to Zidan & Sahil)
+Updated camera {aux, priv-app} list
+Updated IMS blobs from Bomb RP1A.200720.01
+Updated APNS from Bomb RP1A.200720.011 
+Enabled Android 11 live blur
+Improved Battery Backup
+
+

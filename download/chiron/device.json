@@ -1,13 +1,14 @@
 {
     "error": false,
-    "donate_url": "https://www.patreon.com/xSylla",
+    "donate_url": "paypal.me/xSyllaMaintainer",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1604847395.7644205,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-chiron-20201108-1202.zip",
+    "datetime": 1609683805.5083785,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-chiron-20210102-2323.zip",
     "id": "",
-    "size": "661731971",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fchiron%2FRevengeOS-4.0-R-OFFICIAL-chiron-20201108-1202.zip",
+    "size": "722455638",
+    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fchiron%2FRevengeOS-4.0-R-OFFICIAL-chiron-20210102-2323.zip",
+    "download_new": "https://download.revengeos.com/download/chiron",
     "version": "4.0",
-    "filehash": "497aad1bd329e0756570ad7341cc831a"
+    "filehash": "acdb8fc74858469daafd4d5750d0fcb4"
 }
