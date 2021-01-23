@@ -16,7 +16,6 @@
        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">  
        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
        <link rel="stylesheet" href="css/styles.css" title="vue">
-       <script async src="https://analytics.revengeos.com/tracker.js" data-ackee-server="https://analytics.revengeos.com" data-ackee-domain-id="ea2c68b0-854e-4537-9cd1-5dcfa73f6bd0"></script>
        <script data-ad-client="ca-pub-5878875805175242" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
           <script src="js/devices.min.js"></script>
@@ -151,5 +150,7 @@
             </article>
          </section>
       </main>
+      <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt=""/></noscript>
    </body>
 </html>
