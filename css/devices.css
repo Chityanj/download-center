@@ -36,9 +36,8 @@ body {
     font-family: urbanist;
     font-size: 15px;
     line-height: 1.5;
-    color: #212529;
     text-align: left;
-    background: #282d2d
+    background: #282d2d;
     backdrop-filter: blur(8px); // This be the blur
 }
 #wrapper {
