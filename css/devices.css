@@ -38,7 +38,6 @@ body {
     line-height: 1.5;
     text-align: left;
     background: #282d2d;
-    backdrop-filter: blur(8px); // This be the blur
     color: #c9d1d8;
 }
 #wrapper {
