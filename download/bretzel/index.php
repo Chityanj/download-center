@@ -17,7 +17,7 @@ function getTitle($t){
       <meta property="og:image" content="../../images/favicons/favicon.ico" />
       <meta name="keywords" content="le max2,mido,tissot,dipper,zippo,revengeos,revengeos downloads,revengeos for xiaomi,xiaomi,custom rom,xda revengeos,xda,download revngeos,ros,android,aosp">
       <meta name="description" content="Download RevengeOS for <?php echo getTitle(__DIR__); ?>.">
-      <script async defer data-website-id="ff9af394-4cf6-4674-9fc8-8241e42a00ac" src="https://analytics.revengeos.com/umami.js"></script>
+      <script async defer data-website-id="d1b01be2-d32a-4a53-9385-f472b0ada37f" src="https://analytics.revengeos.com/umami.js"></script>
       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
       <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
