@@ -4,4 +4,5 @@ for f in $PWD/download/*;
   do 
      [ -d $f ] && cd "$f" && echo Entering into $f && cp ~/download-center/assets/downloadpg/index.php  "$f"
   done;
-
+git add .
+git commit -m update
