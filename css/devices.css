@@ -39,6 +39,7 @@ body {
     text-align: left;
     background: #282d2d;
     backdrop-filter: blur(8px); // This be the blur
+    color: hsla(0,0%,100%,.6);
 }
 #wrapper {
     display: flex;
@@ -58,7 +59,7 @@ body {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
     border-radius: 30px;
     padding: 30px;
-    background: hsla(0,0%,100%,.6);
+    background: #333838;
     border-color: linear-gradient(#73fac8, #00bee1);
 }
 #page-header {
@@ -78,6 +79,7 @@ body {
 .metropolis-medium {
     font-family: urbanist;
     font-weight: 500;
+    color: #fff;
 }
 h1 {
     margin: 0;
