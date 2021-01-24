@@ -40,6 +40,9 @@ body {
     background: #282d2d;
     color: #c9d1d8;
 }
+a {
+    color: #c9d1d8!important;
+}
 #wrapper {
     display: flex;
     align-items: stretch;
