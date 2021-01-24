@@ -51,6 +51,53 @@ body {
     padding-bottom: 25px;
   
 }
+
+button {
+  border: none;
+  display: inline-block;
+  background: transparent;
+  border-radius: 99px;
+  color: white;
+  position: relative;
+  z-index: 1;
+  font-size: 14px;
+  padding: 17px 35px;
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+button:before, 
+button:after {
+  content: ' ';
+  position: absolute;
+  border-radius: 99px;
+}
+
+button:before {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -2;
+  background: radial-gradient(farthest-corner at var(--x,0) var(--y,0),#73fac8,#00bee1);
+}
+
+button:after {
+  top: 2px; 
+  bottom: 2px;
+  left: 2px;
+  right: 2px;
+  background-color: black;
+  z-index: -1;
+  opacity: 0.8;
+  transition: all 0.6s ease-in-out;
+}
+
+button:hover:after {
+  opacity: 0.6;
+}
+
 .nav-btn {border-radius: 45px;}
 .btn {border-radius: 45px;}
 
