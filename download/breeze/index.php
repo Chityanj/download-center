@@ -86,14 +86,14 @@ function getTitle($t){
                            <i class="icon fas fa-download"></i>
                            <div class="spec-text">
                               <div class="metropolis-semibold spec-type">Size</div>
-                              <div id="size-value" class="spec-value"><a href="https://paypal.me/lucchetto">Paypal</a></div>
+                              <div id="size-value" class="spec-value"></div>
                            </div>
                         </div>
                         <div class="col spec-col">
                            <i class="fas fa-donate icon"></i>
                            <div class="spec-text">
                               <div class="metropolis-semibold spec-type">Donate</div>
-                              <div id="battery-value" class="spec-value"></div>
+                              <div id="battery-value" class="spec-value"><a href="https://paypal.me/lucchetto">Paypal</a></div>
                            </div>
                         </div>
                      </div>
