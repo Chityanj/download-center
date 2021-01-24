@@ -54,6 +54,9 @@ a {
     padding-bottom: 25px;
   
 }
+button {
+    font: 400 13.3333px urbanist;}
+
 .battery-value {
     color: white;
 }
