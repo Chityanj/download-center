@@ -131,14 +131,14 @@ function getTitle($t){
       <div class="modal-body mb-0 p-0">
 
         <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
-          <iframe class="embed-responsive-item" src="changelog.html" allowfullscreen></iframe>
+          <iframe class="embed-responsive-item" src="changelog.txt" allowfullscreen></iframe>
         </div>
 
       </div>
             
       <!--Footer-->
       <div class="modal-footer justify-content-center">
-        <span class="mr-4">Spread the word!</span>
+        <span class="mr-4">Socials</span>
         <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>
         <!--Twitter-->
         <a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>
