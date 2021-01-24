@@ -128,6 +128,17 @@
          <section class="content">
             
             <article id="main" class="markdown-section">
+               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- rosnew -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5878875805175242"
+     data-ad-slot="6049467055"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
                <h1>Asus</h1>
                <div id="asus"></div>
                <h1>Google</h1>
