@@ -1,1 +1,12 @@
-First official build
+Use stock FOD size & positioning
+FOD improvements
+We are now Turbo charging
+Update WiFi & Tethering overlays
+Improve lockscreen aesthetics
+Performance tuning
+Update power & light hals
+Unpin camera from memory
+Add some missing permissions
+Sync with latest RevengeOS sources
+Tree cleanup
+And more...

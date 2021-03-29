@@ -1,5 +1,16 @@
-Switched back to AOSP BT stack
-Removed L1 support to fix Netflix crashes
-Updated blobs from LA.UM.8.2.r1-07400-sdm660.0
-Updated fingerprint from Redfin - RQ1A.210105.003
-Enabled VR high perfomance options
+Switched to Halcyon Kernel v4.3 - 4.4.263
+Updated build fingerprint to RQ2A.210305.006 from Redfin to fix Safetynet
+Switched to Audio hal v4
+Switched to AIDL Powerhal for better battery backup
+Added qrtr blobs
+Rolled back to wayne-thermal to fix performance issues
+Loosen up charging thermal throttling thresholds
+Enabled AOSP surfaceflinger
+Downgrade LA.UM.9.6.2.r1 revision to 03300-89xx.0 to fix WFD "Cast"
+Downgrade GPS blobs and hals to LA.UM.9.6.2.r1-03300-89xx.0 to fix GPS navigation
+Set maximum media record to 60fps
+Allow com.qualcomm.location to run in the background
+Disable clean turn on
+Set vendor.audio.adm.buffering.ms to 3
+Shorten wait time for services exit to optimize shutdown time
+XiaomiParts rebranded to DeviceSettings -> Settings/System

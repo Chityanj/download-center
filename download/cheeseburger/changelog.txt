@@ -1,6 +1,23 @@
-Volume panel position changed to left
-Added Oneplus Settings(Panel modes and slider setting)
-Added DC dimming tile
-Added Revenge kernel v2.0
-Made changes to WiFi loading
-Made changes to VoLTE stuff
+Device trees rebased on LOS 18.1 
+Fixed VoWIFI and native video calling (Thanks to Enes)
+Added Device Settings from old tree 
+Added Display mode fixes from derpfest  (Thanks to Alex )
+Added zygote preforking for faster app launches
+Made changes to bluetooth props(downreved btconfigstore to 1.0)
+Nuked qti-bt stack cuz it wasn't used anymore
+VoLTE fixed for sim 2 (needs a phone restart to work)
+Added GPU props
+Added Vulcan and OpenGL blobs
+Added aptx blobs from crosshatch
+Safetynet hacks
+Latest kernel from LOS upstreamed to 4.4.254
+Added fixes for nightlight and DC dimming (Thanks to kernel god Edrick)
+Added RCS props and fixes
+Dexpreopt everything
+Hide selinux permissive(safety net hack)
+Add missing props for perf hal
+Update audio hal service
+Import carrier config and IMS apk from CAF
+Burn in protection for navbar and status bar
+Add custom doze package from derpfest
+Remove WhatsApp from HAL1 list

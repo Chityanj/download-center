@@ -1,7 +1,18 @@
-Android R first our build back after a while 
-Include January security patches
-Include revenge Weather app
+Include March security patches
 Include FOD Animation with selector
-Improve FOD
-Other improvements and translations
+Fix FOD flickering on lockscreen
+Fix voLTE icon padding
+Battery life improvement (after 1-2 cycles)
+Added Pixel Props for Google APK spoffing
+Fix "OK Google"
+Fix Traffic Manager
+Add GCam GO
+Add hide navigation bar/pill options
+Fix some SELinux denials
+Add Speaker clean option
+Improvement FOD
+Add temporary as default block sensors partial wakeup for some apps (fewer
+wake-ups)
+Some blobs were updated
 
+More info on support group revengeos_k20pro

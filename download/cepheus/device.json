@@ -1,14 +1,15 @@
 {
     "error": false,
-    "donate_url": "https://paypal.me/Giovix92",
+    "donate_url": "https://www.paypal.com/paypalme/Giovix92",
     "website_url": "https://revengeos.com/",
-    "news_url": "https://t.me/giovixcloud",
-    "datetime": 1611058159.0864782,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-cepheus-20210116-2308.zip",
+    "news_url": "https://t.me/GiovixCloud",
+    "datetime": 1616210014.5845184,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-cepheus-20210318-1051.zip",
     "id": "",
-    "size": "946178975",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fcepheus%2FRevengeOS-4.0-R-OFFICIAL-cepheus-20210116-2308.zip",
+    "size": "945031423",
+    "url": "https://sourceforge.net/projects/revengeos/files/cepheus/RevengeOS-4.0-R-OFFICIAL-cepheus-20210318-1051.zip",
     "download_new": "https://download.revengeos.com/download/cepheus",
+    "clean_flash": "yes",
     "version": "4.0",
-    "filehash": "79742cb6ddc45205e0f8c5abc792c81a"
+    "filehash": "ea1c8cd48eb350d9577b142f67d9f5a5"
 }

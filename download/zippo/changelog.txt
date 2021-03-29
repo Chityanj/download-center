@@ -1,2 +1,3 @@
-Deep sleep drain improvements
-Fixed missing apps from PlayStore
+Fix crash dumps
+Idle drain improvements
+FM radio support

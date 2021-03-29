@@ -1,10 +1,1 @@
-Updated WFD stack / DRM blobs from NUBIA NX627J
-Device now will use redfin's prop as stock device fingerprint
-Addressed some more denials
-Switched to R HALs
-Added missing USB audio config
-Increased ZRAM to 2GB
-Fixed hotword input
-Remapped AI button to VOICE_ASSIST
-Refactored fstab in order to use new encyption flags
-Re-added wake on pickup
+Switch to Evasi0n's trees (sm8150-common team)

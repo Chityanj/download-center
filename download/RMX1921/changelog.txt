@@ -1,9 +1,4 @@
-December security patch
-Fixed Proximity fully
-Fixed AOD
-New RevengeUI, completely Redesigned
-RevengeLauncher, like Launcher3 but much better and nicer
-Updated RevengeLauncher
-Updated Theme app
-Added Live display
-Added back many features from Android 10
+Latest RevengeOS sources.
+Updated redfin fp to Feb 2021.
+SafteyNet Pass without root.
+More improvements.
