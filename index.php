@@ -82,12 +82,6 @@
       </ul>
    </li>
    <li>
-      <p>Google</p>
-      <ul>
-         <div id=googleslider></div>
-      </ul>
-   </li>
-   <li>
       <p>LeEco</p>
       <ul>
          <div id=leecoslider></div>
@@ -141,8 +135,6 @@
 </script>
                <h1>Asus</h1>
                <div id="asus"></div>
-               <h1>Google</h1>
-               <div id="google"></div>
                <h1>LeEco</h1>
                <div id="leeco"></div>
                <h1>Lenovo</h1>
