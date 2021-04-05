@@ -1,2 +1,0 @@
-Fixed all audio issues
-Added LiveDisplay

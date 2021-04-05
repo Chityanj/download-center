@@ -1,9 +1,0 @@
-Switched to New Trees
-Clean Flash Required
-NFC Working Now
-Selinux Permissive
-Added LiveDisplay Support
-Fixed Bottom Corners Roundness 
-Kernel Upstreamed to 4.4.248
-Added Sound Control Support to default Kernel
-

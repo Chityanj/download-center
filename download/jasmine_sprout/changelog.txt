@@ -1,5 +1,0 @@
-Initial official release
-DeviceSettings: Switch to SecureSettingSwitchPreference
-audio: Add missing voice-headset path 
-rootdir: Fixed zRam and post_boot scripts
-kernel: Kernel upstreamed to 4.4.243

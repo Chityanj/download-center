@@ -1,4 +1,0 @@
-SELinux is now Enforcing
-Revert Soundtrigger to v2.2 (This fixes the Bluetooth Audio problem)
-Update Bluetooth aptX blobs from Crosshatch
-Minor Improvements
