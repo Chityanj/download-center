@@ -75,13 +75,7 @@
             <h1 class="app-name"><a class="app-name-link" data-nosearch="" href="/">devices</a></h1>
             <div class="sidebar-nav">
                 <ul>
-                    <li>
-      <p>Asus</p>
-      <ul>
-         <div id=asusslider></div>
-      </ul>
-   </li>
-   <li>
+                  <li>
       <p>LeEco</p>
       <ul>
          <div id=leecoslider></div>
@@ -106,6 +100,11 @@
       </ul>
    </li>
       <li>
+      <p>Ulefone</p>
+      <ul>
+         <div id=ulefoneslider></div>
+      </ul>
+         <li>
       <p>Realme</p>
       <ul>
          <div id=realmeslider></div>
@@ -133,8 +132,7 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-               <h1>Asus</h1>
-               <div id="asus"></div>
+               
                <h1>LeEco</h1>
                <div id="leeco"></div>
                <h1>Lenovo</h1>
@@ -146,7 +144,8 @@
                <div id="oneplus"></div>
                <h1>Realme</h1>
                <div id="realme"></div>
-               
+               <h1>Ulefone</h1>
+               <div id="ulefone"></div>
                <h1>Xiaomi</h1>
                <div id="xiaomi"></div>
                
