@@ -3,12 +3,13 @@
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1612292416.0588899,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-zippo-20210202-1249.zip",
+    "datetime": 1618049333.716441,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-zippo-20210410-0934.zip",
     "id": "",
-    "size": "822925842",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fzippo%2FRevengeOS-4.0-R-OFFICIAL-zippo-20210202-1249.zip",
+    "size": "828532811",
+    "url": "https://sourceforge.net/projects/revengeos/files/zippo/RevengeOS-4.0-R-OFFICIAL-zippo-20210410-0934.zip",
     "download_new": "https://download.revengeos.com/download/zippo",
+    "clean_flash": "no",
     "version": "4.0",
-    "filehash": "fbce8686f6d21f0ff0f07c0185cccf80"
+    "filehash": "0ef642ec808c4f09ad37306027465f9e"
 }

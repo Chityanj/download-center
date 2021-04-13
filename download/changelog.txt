@@ -1,3 +1,2 @@
-March security patch
-Unlink Notifications and Ringtones volume
-Turn off screen rotation in lock screen
+April security patches
+Network per-app isolation

@@ -1,16 +1,15 @@
-Switched to Halcyon Kernel v4.3 - 4.4.263
-Updated build fingerprint to RQ2A.210305.006 from Redfin to fix Safetynet
-Switched to Audio hal v4
-Switched to AIDL Powerhal for better battery backup
-Added qrtr blobs
-Rolled back to wayne-thermal to fix performance issues
-Loosen up charging thermal throttling thresholds
-Enabled AOSP surfaceflinger
-Downgrade LA.UM.9.6.2.r1 revision to 03300-89xx.0 to fix WFD "Cast"
-Downgrade GPS blobs and hals to LA.UM.9.6.2.r1-03300-89xx.0 to fix GPS navigation
-Set maximum media record to 60fps
-Allow com.qualcomm.location to run in the background
-Disable clean turn on
-Set vendor.audio.adm.buffering.ms to 3
-Shorten wait time for services exit to optimize shutdown time
-XiaomiParts rebranded to DeviceSettings -> Settings/System
+Adjusted RSSI thresholds for switching between WiFi networks
+Allocate heap values dynamically
+Implemented clear speaker, in-app Dirac and, redesigned FPS info in DeviceSettings
+Imported some perf blobs
+Introduced IORap
+Light HAL now gets loaded earlier at bootup to prevent any potential issues
+Optimized shutdown time
+Removed all-caps text for buttons
+Set fast charging indicator threshold to 10.8W
+Switched to sdfat 2.4.5 driver for exfat
+Updated blobs from LA.UM.8.2.r1-07500-sdm660.0
+Updated dex2oat configs for faster 1st boot
+Updated kernel to Predator Stormbreaker X4.5 beta
+Updated vibration pattern from Pixel 2
+

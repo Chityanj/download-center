@@ -1,0 +1,3 @@
+Build is still based on Q vendor (MIUI 12.0.3.0 base)
+Preparations for Android 11 vendor are underway
+Ensure to downgrade first if you had updated to MIUI 12.1.x.x

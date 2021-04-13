@@ -3,13 +3,13 @@
     "donate_url": "paypal.me/fraaxius1",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1617576195.2120633,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-lake-20210404-1640.zip",
+    "datetime": 1618139160,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-lake-20210411-0135.zip",
     "id": "",
-    "size": "741276880",
-    "url": "https://sourceforge.net/projects/revengeos/files/lake/RevengeOS-4.0-R-OFFICIAL-lake-20210404-1640.zip",
+    "size": "782237696",
+    "url": "https://sourceforge.net/projects/revengeos/files/lake/RevengeOS-4.0-R-OFFICIAL-lake-20210411-0135.zip",
     "download_new": "https://download.revengeos.com/download/lake",
-    "clean_flash": "yes",
+    "clean_flash": "no",
     "version": "4.0",
-    "filehash": "45779799ee0c3fffc15a74401f077fce"
+    "filehash": "d097990d350b3e65df092e057591806b"
 }

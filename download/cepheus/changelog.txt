@@ -1,1 +1,2 @@
-Switch to Evasi0n's trees (sm8150-common team)
+Fix broken mic in some apps
+Some under-the-hood changes

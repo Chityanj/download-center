@@ -1,3 +1,1 @@
-Fix crash dumps
-Idle drain improvements
-FM radio support
+Selinux enforcing

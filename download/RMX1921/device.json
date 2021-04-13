@@ -1,14 +1,15 @@
 {
     "error": false,
-    "donate_url": "https://paypal.me/kaderbava ",
+    "donate_url": "paypal.me/kaderbava ",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1612440461.3141305,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-RMX1921-20210203-1425.zip",
+    "datetime": 1618165125.4202952,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-RMX1921-20210410-1859.zip",
     "id": "",
-    "size": "1022191513",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2FRMX1921%2FRevengeOS-4.0-R-OFFICIAL-RMX1921-20210203-1425.zip",
+    "size": "1031187261",
+    "url": "https://sourceforge.net/projects/revengeos/files/RMX1921/RevengeOS-4.0-R-OFFICIAL-RMX1921-20210410-1859.zip",
     "download_new": "https://download.revengeos.com/download/RMX1921",
+    "clean_flash": "no",
     "version": "4.0",
-    "filehash": "87a41551ec06b2a4c462915d4c278b86"
+    "filehash": "f86aecac80c25a779161e2189f1354c0"
 }
