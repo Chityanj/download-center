@@ -1,14 +1,15 @@
 {
     "error": false,
-    "donate_url": "http://paypal.me/karthik9908",
+    "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1612734759,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-dumpling-20210207-0820.zip",
+    "datetime": 1618494270.059398,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-dumpling-20210414-2210.zip",
     "id": "",
-    "size": "846833242",
-    "url": "https://sourceforge.net/projects/revengeos/files/dumpling/RevengeOS-4.0-R-OFFICIAL-dumpling-20210207-0820.zip/download",
+    "size": "779733337",
+    "url": "https://sourceforge.net/projects/revengeos/files/dumpling/RevengeOS-4.0-R-OFFICIAL-dumpling-20210414-2210.zip",
     "download_new": "https://download.revengeos.com/download/dumpling",
+    "clean_flash": "no",
     "version": "4.0",
-    "filehash": "7e5484ef2e16d0835f7fdb88f46861e7"
+    "filehash": "ac9b39681a38fa204bdf921794fda9b9"
 }

@@ -11,7 +11,7 @@
         "name": "Armor X5",
         "maintainer": "jmpfbmx",
         "telegram": "jmpf_bmx",
-        "xda_thread": "https://forum.xda-developers.com/android/development/rom-revengeos-3-2-ulefone-armor-x5-t4173863"
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-0-for-ulefone-armor-x5-aka-bretzel.4261331"
     },
     "cepheus": {
         "brand": "Xiaomi",
@@ -131,6 +131,13 @@
         "telegram": "Nick89786",
         "xda_thread": "https://forum.xda-developers.com/showthread.php?t=4017221"
     },
+    "rosy": {
+        "brand": "Xiaomi",
+        "name": "Redmi 5",
+        "maintainer": "Pulkit Agarwal",
+        "telegram": "Pulkit077",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-revengeos-4-0-xiaomi-redmi-5-rosy-offical.4167969/"
+    },
     "santoni": {
         "brand": "Xiaomi",
         "name": "Redmi 4/4x",
@@ -139,8 +146,8 @@
         "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-revengeos-xiaomi-redmi-44x-t4012853"
     },
     "surya": {
-        "brand": "Poco",
-        "name": "X3 NFC",
+        "brand": "POCO",
+        "name": "Poco X3 NFC",
         "maintainer": "Reza Bagas Rifaldy",
         "telegram": "GrettoRosella",
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-revengeos-poco-x3-nfc-surya-official.4243715"

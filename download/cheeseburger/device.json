@@ -1,14 +1,15 @@
 {
     "error": false,
-    "donate_url": "http://paypal.me/karthik9908",
+    "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1612734939,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-cheeseburger-20210207-0752.zip",
+    "datetime": 1618492760.7795632,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-cheeseburger-20210414-2343.zip",
     "id": "",
-    "size": "846533597",
-    "url": "https://sourceforge.net/projects/revengeos/files/cheeseburger/RevengeOS-4.0-R-OFFICIAL-cheeseburger-20210207-0752.zip/download",
+    "size": "779590568",
+    "url": "https://sourceforge.net/projects/revengeos/files/cheeseburger/RevengeOS-4.0-R-OFFICIAL-cheeseburger-20210414-2343.zip",
     "download_new": "https://download.revengeos.com/download/cheeseburger",
+    "clean_flash": "no",
     "version": "4.0",
-    "filehash": "0df326edfd3b951ddccb251b2df049fe"
+    "filehash": "54d1d16eb9e23ecf807e3edb7f95aaf0"
 }

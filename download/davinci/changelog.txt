@@ -1,3 +1,7 @@
-switch to AIDL Power HAL
-Fix chrome problems and other DRM issues
-Added KCAL impl
+BringBack libperf
+enabled free form windows by default
+fixed idle drain(thanks to marco)
+april security patches
+Per app network isolation
+more under the hood improvements
+

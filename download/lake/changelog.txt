@@ -1,5 +1,1 @@
-RevengeUI is here!
-Dropped MotoClock.
-Update display config to 1.9.
-Increased status bar height for notch.
-Drop QS height in favor of the new interface.
+Disabled blur for better performance

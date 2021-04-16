@@ -1,7 +1,7 @@
 Adjusted RSSI thresholds for switching between WiFi networks
 Allocate heap values dynamically
-Implemented clear speaker, in-app Dirac and, redesigned FPS info in DeviceSettings
-Imported some perf blobs
+Imported AdaptLaunch and some perf blobs
+Implemented clear speaker, in-app Dirac and redesigned FPS info in DeviceSettings
 Introduced IORap
 Light HAL now gets loaded earlier at bootup to prevent any potential issues
 Optimized shutdown time
@@ -10,6 +10,6 @@ Set fast charging indicator threshold to 10.8W
 Switched to sdfat 2.4.5 driver for exfat
 Updated blobs from LA.UM.8.2.r1-07500-sdm660.0
 Updated dex2oat configs for faster 1st boot
-Updated kernel to Predator Stormbreaker X4.5 beta
+Updated kernel to Predator Stormbreaker X4.5
 Updated vibration pattern from Pixel 2
 
