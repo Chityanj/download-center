@@ -1,7 +1,4 @@
-BringBack libperf
-enabled free form windows by default
-fixed idle drain(thanks to marco)
-april security patches
-Per app network isolation
-more under the hood improvements
-
+Fixed blur and enabled it by default
+blur doesnt lags now
+Fixed Padding
+Switched to coral fp for now

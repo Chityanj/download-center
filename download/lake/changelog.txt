@@ -1,1 +1,1 @@
-Disabled blur for better performance
+Updated camera blobs from Lake QPWS30.61-21-18-7

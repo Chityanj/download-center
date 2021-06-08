@@ -1,1 +1,2 @@
-Selinux enforcing
+Anti flicker mode
+In-kernel dimming

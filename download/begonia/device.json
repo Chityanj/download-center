@@ -1,15 +1,15 @@
 {
     "error": false,
-    "donate_url": "http://paypal.me/NextWorksRoms",
+    "donate_url": "paypal.me/NextWorksRoms",
     "website_url": "https://revengeos.com/",
-    "news_url": "https://t.me/nextworksChannel",
-    "datetime": 1618156702.2765882,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-begonia-20210411-1536.zip",
+    "news_url": "https://t.me/NextROMS",
+    "datetime": 1621202202.3848307,
+    "filename": "RevengeOS-4.0-R-Official-begonia-20210516-2113.zip",
     "id": "",
-    "size": "942863475",
-    "url": "https://sourceforge.net/projects/revengeos/files/begonia/RevengeOS-4.0-R-OFFICIAL-begonia-20210411-1536.zip",
+    "size": "941210905",
+    "url": "https://sourceforge.net/projects/revengeos/files/begonia/RevengeOS-4.0-R-Official-begonia-20210516-2113.zip",
     "download_new": "https://download.revengeos.com/download/begonia",
     "clean_flash": "yes",
     "version": "4.0",
-    "filehash": "7e7e73f23a0f20056a91a3a82ffab9bc"
+    "filehash": "2ec20e21a4740e3370a9ed01eea6794b"
 }

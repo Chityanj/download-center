@@ -1,15 +1,11 @@
-Adjusted RSSI thresholds for switching between WiFi networks
-Allocate heap values dynamically
-Imported AdaptLaunch and some perf blobs
-Implemented clear speaker, in-app Dirac and redesigned FPS info in DeviceSettings
-Introduced IORap
-Light HAL now gets loaded earlier at bootup to prevent any potential issues
-Optimized shutdown time
-Removed all-caps text for buttons
-Set fast charging indicator threshold to 10.8W
-Switched to sdfat 2.4.5 driver for exfat
-Updated blobs from LA.UM.8.2.r1-07500-sdm660.0
-Updated dex2oat configs for faster 1st boot
-Updated kernel to Predator Stormbreaker X4.5
-Updated vibration pattern from Pixel 2
-
+Added some missing audio routes
+Allocated zRAM values dynamically
+Configured dext2oat for pre-optimization
+Disabled TDLS OffChannel
+Enabled support for USB Audio accessories
+Fine Tuned zRAM writeback
+Improved GPS response time
+Localised NTP to improve GPS TTFF
+Kernel upstreamed to Predator - Stormbreaker x4.5 - 4.4.266 Switched back to audio HAL v6
+Updated Frames consistently
+Updated WFD and Time blobs from LA.UM.9.2.r1-01800-SDMxx0.0

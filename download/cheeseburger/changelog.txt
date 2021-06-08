@@ -1,6 +1,3 @@
-Switched to new LED based haptics.
-Added new DC dimming tile image.
-Fixed issues with F linker.
-LOS upstreamed kernel with vibration stuff.
-Fixed Selinux denials for vibrator haptics.
-Enforcing Selinux now
+Fixed call volume steps
+May Redfin fp
+Added some minor improvements to the kernel based on OnePlus stuff

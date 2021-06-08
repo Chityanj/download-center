@@ -1,3 +1,4 @@
-Switched Selinux Permissive to Enforcing Selinux
-Upstreamed NextKernel
-Explicitly enable iorap
+Use EVA GCC 12 instead to use Clang 9
+Limit Screen Recording To 60Fps
+Increased 5GHz Network Signal tolerance 
+Fixed all Problems Bugs with OMX Decoder

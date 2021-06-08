@@ -1,2 +1,1 @@
-April security patches
-Network per-app isolation
+May 2021 security patch

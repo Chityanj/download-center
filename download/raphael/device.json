@@ -2,13 +2,14 @@
     "error": false,
     "donate_url": "https://paypal.me/szradev",
     "website_url": "https://revengeos.com/",
-    "news_url": "https://t.me/revengeos_k20pro",
-    "datetime": 1615973718.8179433,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-raphael-20210316-1723.zip",
+    "news_url": "https://t.me/spizgany_support",
+    "datetime": 1621159964.9557772,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-raphael-20210511-1401.zip",
     "id": "",
-    "size": "760521719",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fraphael%2FRevengeOS-4.0-R-OFFICIAL-raphael-20210316-1723.zip",
+    "size": "1204103686",
+    "url": "https://sourceforge.net/projects/revengeos/files/raphael/RevengeOS-4.0-R-OFFICIAL-raphael-20210511-1401.zip",
     "download_new": "https://download.revengeos.com/download/raphael",
+    "clean_flash": "yes",
     "version": "4.0",
-    "filehash": "b939500edfeae8110ef46e94b466ca72"
+    "filehash": "7aeca6d40e4befe4d8dd469d3849f092"
 }

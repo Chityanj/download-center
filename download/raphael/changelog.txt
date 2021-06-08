@@ -1,18 +1,16 @@
-Include March security patches
-Include FOD Animation with selector
-Fix FOD flickering on lockscreen
-Fix voLTE icon padding
-Battery life improvement (after 1-2 cycles)
-Added Pixel Props for Google APK spoffing
-Fix "OK Google"
-Fix Traffic Manager
-Add GCam GO
-Add hide navigation bar/pill options
-Fix some SELinux denials
-Add Speaker clean option
-Improvement FOD
-Add temporary as default block sensors partial wakeup for some apps (fewer
-wake-ups)
-Some blobs were updated
-
-More info on support group revengeos_k20pro
+switch to oss vendor (celan flash mandatory)
+added may tags for repos
+improve fod
+improve fod with dc-dimming
+change for assistant gesture (machine learning), hide assistant hint from
+lockscreen
+switch to lineage power hal
+experimental changes in kernel (optimalize freq table, workqueues, power
+energy model)
+fix doze settings(pickup etc)
+added edge pulse light on notification
+some changes in revenge launcher (fix bugs, fix items location save state)
+fix some denials 
+add dolby audio
+add high brightnes mode
+add simple gcam

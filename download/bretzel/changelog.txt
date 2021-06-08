@@ -1,1 +1,2 @@
-NFC Fixed!
+Make ADB works better
+Disable blur (Now device goes faster)

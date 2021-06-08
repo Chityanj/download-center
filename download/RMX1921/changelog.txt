@@ -1,7 +1,0 @@
-SELinux Enforcing!
-Kernel Upstream to 4.9.265
-Merged WiFi drivers(qcacld-3.0, fw-api, qca-wifi-host-cmn) from latest CAF tag LA.UM.9.8.r1-03800-SDM710.0
-Tuned statusbar padding & Rounded corners padding
-Fixed charging info overlapping with fod
-SafteyNet Pass without root as usual
-More improvements & fixes.

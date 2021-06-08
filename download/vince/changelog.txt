@@ -1,13 +1,11 @@
-Fix AutoBrightness
-Disable AOSP SurfaceFlinger
-Address some more denials
-Import Pixel's PowerHAL
-Add a basic powerhint
-Update perf blobs from Taimen
-Inline with StormBreaker
-Upstream to 4.9.233
-Power Efficient Workqueue
-Drop debugging
-Upstream lz4 from 4.14
-Fix Kcal implementation
-Under the hood optimization for performance
+Update redfin fp
+Cleanup deprecated stuff
+Switch to Health HAL 2.1
+Add camera libs needed for IMS
+Switch to AOSP Clang 11
+Rebase kernel to Kud-Project
+Upstream kernel to 4.9.267
+Upstream base, prima and techpack to LA.UM.9.6.2.r1-04200-89xx.0
+Fix the "delay" when waking device using fp
+Include and upstream LZ4 compression
+Debloat prima drivers (creds to @mochi_wwww)

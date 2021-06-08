@@ -1,15 +1,15 @@
 {
-    "url": "https://sourceforge.net/projects/revengeos/files/lavender/RevengeOS-4.0-R-OFFICIAL-lavender-20210413-1201.zip",
     "error": false,
-    "clean_flash": "yes",
-    "size": "917418920",
-    "filehash": "8823b500ddefa997548b16bc87d9c170",
-    "id": "",
-    "filename": "RevengeOS-4.0-R-OFFICIAL-lavender-20210413-1201.zip",
-    "news_url": "https://t.me/RevengeOSNews",
-    "download_new": "https://download.revengeos.com/download/lavender",
-    "version": "4.0",
-    "datetime": 1618335336.6549041,
     "donate_url": "https://paypal.me/lucchetto",
-    "website_url": "https://revengeos.com/"
+    "website_url": "https://revengeos.com/",
+    "news_url": "https://t.me/RevengeOSNews",
+    "datetime": 1620974467.7993205,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-lavender-20210513-1221.zip",
+    "id": "",
+    "size": "919995950",
+    "url": "https://sourceforge.net/projects/revengeos/files/lavender/RevengeOS-4.0-R-OFFICIAL-lavender-20210513-1221.zip",
+    "download_new": "https://download.revengeos.com/download/lavender",
+    "clean_flash": "no",
+    "version": "4.0",
+    "filehash": "5949a0f7375c684085bfde4b35910e53"
 }
