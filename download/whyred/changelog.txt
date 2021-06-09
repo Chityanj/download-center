@@ -1,0 +1,7 @@
+Initial official build
+Update Perf & WFD blobs from phoenix_sprout RKQ1.201123.002
+Force triple frame buffers
+Add blur switch under developer option
+Optimise ART Props
+Updated Build fingerprint to redfin may
+Nuke livedisplay for temporary since its broken

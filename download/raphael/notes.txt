@@ -1,0 +1,9 @@
+READ THIS!
+
+Switch to OSS Vendor You need to make clean flash. 
+Flash ROM and dfe or format data after flash ROM to get encription
+
+Clean Flash is mandatory
+If GCAM dont work enable libpatcher in app settings
+
+Support group: https://t.me/spizgany_support
