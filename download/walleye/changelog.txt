@@ -1,3 +1,2 @@
-Initial Official Build
-Added Active Edge
-Using Unicornblood kernel
+June Security Patch
+Fixed GAPPS causing reboot (Probably)

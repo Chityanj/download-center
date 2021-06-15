@@ -1,1 +1,2 @@
-May 2021 security patch
+June 2021 security patch
+Spring effect when scrolling reaches beginning or end of page

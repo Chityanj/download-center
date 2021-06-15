@@ -1,2 +1,2 @@
-Requires MIUI 12.1.4.0 as base
+Requires MIUI V12.5.1.0 firmware
 FlameGApps recommended (I tested with the FULL package)

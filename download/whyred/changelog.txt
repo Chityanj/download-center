@@ -1,7 +1,6 @@
-Initial official build
-Update Perf & WFD blobs from phoenix_sprout RKQ1.201123.002
-Force triple frame buffers
-Add blur switch under developer option
-Optimise ART Props
-Updated Build fingerprint to redfin may
-Nuke livedisplay for temporary since its broken
+Fixed night light
+Update build fingerprint to June redfin
+Tuned top-app schedtune boost from coral
+Updated MiuiCamera
+Upstreamed kernel to v4.4.272
+Switch to Chips kernel Energy model (Tuned for sdm636)

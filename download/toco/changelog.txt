@@ -1,5 +1,7 @@
-Ship upstreamed VantomKernel 4.14.232
-Update to redfin's May fingerprint
-Enable updating of APEXes
-Disable proximity usage during doze
-Address some power HAL denials
+Update blobs to V12.5.1.0 firmware
+Ship VantomKernel 4.14.232
+Update redfin fp to RQ3A.210605.005
+Fix IR blaster
+Switch to prebuilt audio HAL
+Drop soundtrigger
+Fix copying of qdcm profiles

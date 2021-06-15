@@ -1,1 +1,15 @@
-Updated camera blobs from Lake QPWS30.61-21-18-7
+Improvements on Moto Camera
+Dropped LineageOS Trust HAL
+Address system_server denials
+Moved CarrierConfig to RRO
+Restored old rounded corner settings
+Added Moto Dolby from Lake Stock
+Updated Dolby Props for A11 from Sofiap R
+Fixed blur lag
+Added new Pixel libperfmgr
+Build with Cybertron EAS Kernel
+Governor blu_schedutil as default
+Added new thermal system
+Enabled prlmk
+Enabled anxiety I/0 scheduler  
+

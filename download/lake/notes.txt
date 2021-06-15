@@ -1,0 +1,1 @@
+The blur has been fixed and is fluid, but if you experience some lags with use, you can disable it in Developer Options

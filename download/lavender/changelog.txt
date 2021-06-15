@@ -1,11 +1,9 @@
-Added some missing audio routes
-Allocated zRAM values dynamically
-Configured dext2oat for pre-optimization
-Disabled TDLS OffChannel
-Enabled support for USB Audio accessories
-Fine Tuned zRAM writeback
-Improved GPS response time
-Localised NTP to improve GPS TTFF
-Kernel upstreamed to Predator - Stormbreaker x4.5 - 4.4.266 Switched back to audio HAL v6
-Updated Frames consistently
-Updated WFD and Time blobs from LA.UM.9.2.r1-01800-SDMxx0.0
+Decreased launch boost to 3sec
+Don’t enforce RRO for all overlays
+Fixed 5 GHz hotspot
+Let power hal start early
+Perfmgr now change dex2oat priorities along with overriding readahead to 128KiB after post-boot
+Reduced jitter
+Relaxed memlat from post_boot and let libperfmgr handles it
+Update build fingerprint from Redfin - RQ3A.210605.005
+Updated and optimize zRAM configuration

@@ -1,4 +1,4 @@
-Fixed blur and enabled it by default
-blur doesnt lags now
-Fixed Padding
-Switched to coral fp for now
+Fixed safetynet(passes by default)
+More under the hood imporvements
+import additional DRM libs * from Mi Note 10 Lite V12.1.4.0.RFNMIXM * also unpin liboemcrypto.so
+disable popup sounds by default

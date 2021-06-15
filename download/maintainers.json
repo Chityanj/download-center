@@ -73,7 +73,7 @@
         "brand": "Xiaomi",
         "name": "Redmi Note 7",
         "maintainer": "Raiyan Shishir",
-        "telegram": "raiyanshishir07",
+        "telegram": "raiyanshishir",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-revengeos-4-0-xiaomi-redmi-note-7-t4194405"
     },
     "monet": {
@@ -112,11 +112,11 @@
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-revengeos-poco-x3-nfc-surya-official.4243715"
     },
     "taimen": {
-    "brand": "Google",
-    "name": "Pixel 2 XL",
-    "maintainer": "RealOkabe",
-    "telegram": "RealOkabe",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-revengeos-4-0-official.4276847/"
+        "brand": "Google",
+        "name": "Pixel 2 XL",
+        "maintainer": "RealOkabe",
+        "telegram": "RealOkabe",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-walleye-revengeos-4-0-official.4276847/"
     },
     "toco": {
         "brand": "Xiaomi",
@@ -131,6 +131,13 @@
         "maintainer": "Anurag Chorghe",
         "telegram": "starlight5234",
         "xda_thread": "https://forum.xda-developers.com/t/rom-r-beta-revengeos-4-0-xiaomi-redmi-note-5-5-plus-vince-official.4183131/"
+    },
+     "walleye": {
+        "brand": "Google",
+        "name": "Pixel 2 XL",
+        "maintainer": "RealOkabe",
+        "telegram": "RealOkabe",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-walleye-revengeos-4-0-official.4276847/"
     },
     "whyred": {
         "brand": "Xiaomi",
