@@ -1,2 +1,12 @@
-Source upstream
-Stormbreaker as default kernel
+June security patch
+Fixed netflix glitch
+Migrate to Xiaomi power HAL AIDL
+Use cpuset from sunfish
+Kang governor settings from sunfish
+Kang scheduler settings from sunfish
+Update nfc configs from V12.0.7.0.RJGEUXM
+Inline with f1xy's performance tunings
+Update soundtrigger from sweet global
+Update ADSP modules from sweet global
+Update wifi config from sweet 12.5.1.0
+Other fixes and improvement

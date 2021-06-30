@@ -4,7 +4,7 @@
         "name": "F1",
         "maintainer": "ThunderkeX",
         "telegram": "ThunderkeXxX",
-        "xda_thread": ""
+        "xda_thread": "https://forum.xda-developers.com/t/rom-stable-11-0-0_r38-revengeos-4-0-for-beryllium-poco-f1-official.4273729"
     },
     "begonia": {
         "brand": "Xiaomi",
@@ -55,6 +55,13 @@
         "telegram": "zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     },
+    "daisy": {
+        "brand": "Xiaomi",
+        "name": "Mi A2 Lite",
+        "maintainer": "Proxer05",
+        "telegram": "proxer05",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-revengeos-4-0-xiaomi-mi-a2-lite-daisy-official.4295271"
+    },
     "guacamole": {
     	"brand": "OnePlus",
         "name": "OnePlus 7 Pro",
@@ -90,11 +97,18 @@
         "telegram": "crstnn",
         "xda_thread": ""
     },
-    "raphael": {
-        "brand": "Xiaomi",
-        "name": "Mi 9T Pro/Redmi K20 Pro",
-        "maintainer": "szradev",
-        "telegram": "szradev",
+    "RMX1971": {
+        "brand": "Realme",
+        "name": "5 Pro",
+        "maintainer": "a1kara",
+        "telegram": "a1kara",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-revengeos-4-0-realme-5-pro-rmx1971-official.4295377/"
+    },
+    "RMX2001": {
+        "brand": "Realme",
+        "name": "Realme 6(G90T series)",
+        "maintainer": "nero",
+        "telegram": "bx2_nero",
         "xda_thread": ""
     },
     "rosy": {
@@ -125,16 +139,9 @@
         "telegram": "DennisMurimiWachira",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-toco-official-revengeos-4-0.4214643/"
     },
-    "vince": {
-        "brand": "Xiaomi",
-        "name": "Redmi 5 Plus",
-        "maintainer": "Anurag Chorghe",
-        "telegram": "starlight5234",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-r-beta-revengeos-4-0-xiaomi-redmi-note-5-5-plus-vince-official.4183131/"
-    },
      "walleye": {
         "brand": "Google",
-        "name": "Pixel 2 XL",
+        "name": "Pixel 2",
         "maintainer": "RealOkabe",
         "telegram": "RealOkabe",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-walleye-revengeos-4-0-official.4276847/"

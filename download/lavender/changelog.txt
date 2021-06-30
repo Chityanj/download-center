@@ -1,9 +1,1 @@
-Decreased launch boost to 3sec
-Don’t enforce RRO for all overlays
-Fixed 5 GHz hotspot
-Let power hal start early
-Perfmgr now change dex2oat priorities along with overriding readahead to 128KiB after post-boot
-Reduced jitter
-Relaxed memlat from post_boot and let libperfmgr handles it
-Update build fingerprint from Redfin - RQ3A.210605.005
-Updated and optimize zRAM configuration
+Initial build based on LineageOS trees 

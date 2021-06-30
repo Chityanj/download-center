@@ -1,15 +1,15 @@
 {
     "error": false,
-    "donate_url": "https://paypal.me/rezabagasrifaldy",
+    "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1621085966.466992,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-surya-20210515-1143.zip",
+    "datetime": 1623895951.748416,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-surya-20210616-0816.zip",
     "id": "",
-    "size": "729955322",
-    "url": "https://sourceforge.net/projects/revengeos/files/surya/RevengeOS-4.0-R-OFFICIAL-surya-20210515-1143.zip",
+    "size": "1014460342",
+    "url": "https://sourceforge.net/projects/revengeos/files/surya/RevengeOS-4.0-R-OFFICIAL-surya-20210616-0816.zip",
     "download_new": "https://download.revengeos.com/download/surya",
     "clean_flash": "yes",
     "version": "4.0",
-    "filehash": "be1b08a81f15d33eaf3b9613561ac97f"
+    "filehash": "992e9da3efa97ec8d4c1b61f3f6fa8a7"
 }

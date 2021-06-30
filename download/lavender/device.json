@@ -3,13 +3,13 @@
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1623435722.156433,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-lavender-20210611-0624.zip",
+    "datetime": 1623794830.51216,
+    "filename": "RevengeOS-4.0-R-OFFICIAL-lavender-20210615-2146.zip",
     "id": "",
-    "size": "920377016",
-    "url": "https://sourceforge.net/projects/revengeos/files/lavender/RevengeOS-4.0-R-OFFICIAL-lavender-20210611-0624.zip",
+    "size": "865283855",
+    "url": "https://sourceforge.net/projects/revengeos/files/lavender/RevengeOS-4.0-R-OFFICIAL-lavender-20210615-2146.zip",
     "download_new": "https://download.revengeos.com/download/lavender",
-    "clean_flash": "no",
+    "clean_flash": "yes",
     "version": "4.0",
-    "filehash": "e28bf2ca8d374c412cef92c7498aea9d"
+    "filehash": "c71ae02236b943215b2d9bfac9332abf"
 }

@@ -1,6 +1,2 @@
-Adress denials
-Cleanup unused blobs
-Regen thermal config
-Drop Ese-powermanager & IOP blobs stack
-Update Auto Brightness Overlays from stock
-Fix headphone volume buttons in call
+Update blobs from daisy V11.0.19.0.QDLMIXM 
+Drop soter stack
