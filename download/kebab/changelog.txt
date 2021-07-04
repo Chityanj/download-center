@@ -1,0 +1,3 @@
+Fix GAPPs error.
+Set refresh rate to 120Hz by default.
+Improve status bar padding and alignment.

@@ -34,13 +34,6 @@
         "telegram": "zorock",
         "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     },
-    "chiron": {
-        "brand": "Xiaomi",
-        "name": "Mi Mix 2",
-        "maintainer": "xSylla",
-        "telegram": "xSylla",
-        "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-revengeos-4-0-chiron-t4184711"
-    },
     "davinci": {
         "brand": "Xiaomi",
         "name": "Mi 9T (Redmi K20)",
@@ -68,6 +61,13 @@
         "maintainer": "Flawn",
         "telegram": "@fl4wn",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-guacamole-revengeos-4-0-1-11-2020.4177515/"    
+    },
+    "kebab": {
+        "brand": "OnePlus",
+        "name": "8T",
+        "maintainer": "Jose",
+        "telegram": "jmpf_bmx",
+        "xda_thread": ""
     },
     "lake": {
         "brand": "Motorola",
