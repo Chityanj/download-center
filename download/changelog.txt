@@ -1,2 +1,9 @@
-June 2021 security patch
-Spring effect when scrolling reaches beginning or end of page
+Updated boot animation in consistency with RevengeOS design language
+Brand new default wallpapers from @pseudo_nerd
+Reset battery stats option 
+Battery stats no longer auto reset on reboot
+Samsung's OneUI style brief notifications (Reticker) 
+Long screenshot option (using Asus's implementation) 
+White FOD icon from OxygenOS
+Toggle screenshot shutter sound (finally!) 
+Face unlock with built in support for authentication with third party apps.

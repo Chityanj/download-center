@@ -1,15 +1,15 @@
 {
     "error": false,
-    "donate_url": "https://www.paypal.com/paypalme/anmolagrawal",
+    "donate_url": "paypal.me/anmolagrawal",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1623596744.3964584,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-walleye-20210612-1853.zip",
+    "datetime": 1626417784.814423,
+    "filename": "RevengeOS-4.1-R-OFFICIAL-walleye-20210715-1714.zip",
     "id": "",
-    "size": "805615600",
-    "url": "https://sourceforge.net/projects/revengeos/files/walleye/RevengeOS-4.0-R-OFFICIAL-walleye-20210612-1853.zip",
+    "size": "840363299",
+    "url": "https://sourceforge.net/projects/revengeos/files/walleye/RevengeOS-4.1-R-OFFICIAL-walleye-20210715-1714.zip",
     "download_new": "https://download.revengeos.com/download/walleye",
     "clean_flash": "no",
-    "version": "4.0",
-    "filehash": "93ebbb453c4176283eede4f04956d9e3"
+    "version": "4.1",
+    "filehash": "429288e504541897233c8445d87d4d15"
 }

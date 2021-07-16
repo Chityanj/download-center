@@ -1,7 +1,9 @@
-Update blobs to V12.5.1.0 firmware
-Ship VantomKernel 4.14.232
-Update redfin fp to RQ3A.210605.005
-Fix IR blaster
-Switch to prebuilt audio HAL
-Drop soundtrigger
-Fix copying of qdcm profiles
+Bump to July patch
+Ship VantomKernel 4.14.237
+Better charging speeds (use original cable)
+FOD improvements
+Rework init to pass safetynet without Magisk
+Fix "OK Google" detection
+Import HVDCP props from stock
+Fix low brightness
+And more...

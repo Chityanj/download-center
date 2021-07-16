@@ -1,0 +1,12 @@
+Initial Official Build
+Upstream kernel to 4.9.275
+Update Redfin's fingerprint to July
+Added Dirac & QS tile FPS Counter
+Kang display & graphics blobs from RMX1901 (RUI 2.0)
+Fixed Battery Health shown Unavailable
+Disable VSync for rendered apps
+Enable IOrap & zygote prefetching for better app launch
+Extend buffer size to 256kb for offload playback
+Speed preopt SysUI/Launcher/Settings
+Switch Skia rendering backend to Vulkan
+Other Improvement & Misc changes

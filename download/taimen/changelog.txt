@@ -1,3 +1,5 @@
-Initial Official Build
-Added Active Edge
-Using Unicornblood kernel
+RevengeOS 4.1
+July Security patch
+Upstream kernel to 4.4.275 (from abcrom)
+Added blurring in notification panel
+Hide sim manager crashing dialog

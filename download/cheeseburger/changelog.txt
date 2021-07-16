@@ -1,14 +1,1 @@
-June security patch
-Rebased trees to LOS (Thanks to Timi)
-Nuked all useless gps props/blobs
-Nuked Vulkan blobs/props(no performance difference so yeah)
-Refactored some denials
-Fixed issues with boot and Sys UI crashes
-Made vibration haptics a bit better(Idk if it's placebo)
-Fixed some charging issues
-Fixed issues with alarm clock(offline)
-Used better implementation for burn in protection
-Nuked all useless telephony hacks
-Fixed issues with screen lag
-Newer telephony stack from jasmine
-Switched to HZ_1000(kernel)
+Update fp and description to redfin july
