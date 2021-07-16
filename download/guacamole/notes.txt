@@ -1,0 +1,3 @@
+SDCardFS nuked ==> so format your data properly over LOS or YAAP Recovery
+(TWRP-based Recoveries don't work as they miss some important flags)
+Gapps needed! ==> I suggest FlameGapps (NikGapps messes with RevengeOS Customization)

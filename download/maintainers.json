@@ -106,10 +106,10 @@
     },
     "RMX2001": {
         "brand": "Realme",
-        "name": "Realme 6(G90T series)",
+        "name": "Realme 6 (G90T series)",
         "maintainer": "nero",
-        "telegram": "bx2_nero",
-        "xda_thread": ""
+        "telegram": "bx2nero",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-rmx2001-revengeos-4-1-r-16-7-2021.4281335/"
     },
     "rosy": {
         "brand": "Xiaomi",

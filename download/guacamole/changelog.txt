@@ -1,0 +1,15 @@
+July security patch
+Updated boot animation in consistency with RevengeOS design - language
+Brand new default wallpapers from @pseudo_nerd
+Reset battery stats option 
+Battery stats no longer auto reset on reboot
+Samsung's OneUI style brief notifications (Reticker) 
+Long screenshot option (using Asus's implementation) 
+White FOD icon from OxygenOS
+Toggle screenshot shutter sound (finally!) 
+Face unlock with built in support for authentication with third party apps
+Added blurring in notification panel
+Hide sim manager crashing dialog
+Gulch Kernel ==> Thanks John
+YAAP Device Tree Base ==> Thanks OC'D
+==> For more device-specific changes check RevengeOS-Devices
