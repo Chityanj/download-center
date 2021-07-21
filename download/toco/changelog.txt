@@ -1,9 +1,9 @@
 Bump to July patch
-Ship VantomKernel 4.14.237
+Ship upstreamed VantomKernel 4.14.239
 Better charging speeds (use original cable)
 FOD improvements
 Rework init to pass safetynet without Magisk
 Fix "OK Google" detection
 Import HVDCP props from stock
 Fix low brightness
-And more...
+Update Firmware requirements

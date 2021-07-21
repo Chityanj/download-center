@@ -1,0 +1,5 @@
+Initial Official Build
+Synced latest Sleepy Kernel sources
+Fixed the remaining fingerprint issues
+Downgraded some blobs and HALs to Q(WFD is dead)
+More misc changes

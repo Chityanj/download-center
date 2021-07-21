@@ -1,12 +1,6 @@
-June security patch
-Fixed netflix glitch
-Migrate to Xiaomi power HAL AIDL
-Use cpuset from sunfish
-Kang governor settings from sunfish
-Kang scheduler settings from sunfish
-Update nfc configs from V12.0.7.0.RJGEUXM
-Inline with f1xy's performance tunings
-Update soundtrigger from sweet global
-Update ADSP modules from sweet global
-Update wifi config from sweet 12.5.1.0
+Update blobs from LA.UM.9.1.r1-10200-SMxxx0.0 &  MIUI V12.0.1.0.RJGMIXM
+Update gps from LA.UM.9.1.r1-10200-SMxxx0.0
+Kang phase offset & update init from https://github.com/pa-surya/device_xiaomi_surya
+Import QTI vibrator AIDL
+Import USB init scripts from stock
 Other fixes and improvement

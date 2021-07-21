@@ -3,13 +3,13 @@
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1623692109.7858536,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-whyred-20210614-1350.zip",
+    "datetime": 1626459186.7370162,
+    "filename": "RevengeOS-4.1-R-OFFICIAL-whyred-20210716-1537.zip",
     "id": "",
-    "size": "785274885",
-    "url": "https://sourceforge.net/projects/revengeos/files/whyred/RevengeOS-4.0-R-OFFICIAL-whyred-20210614-1350.zip",
+    "size": "826976456",
+    "url": "https://sourceforge.net/projects/revengeos/files/whyred/RevengeOS-4.1-R-OFFICIAL-whyred-20210716-1537.zip",
     "download_new": "https://download.revengeos.com/download/whyred",
-    "clean_flash": "no",
-    "version": "4.0",
-    "filehash": "758e0d0664576fe13bb6dfe67aefdb56"
+    "clean_flash": "yes",
+    "version": "4.1",
+    "filehash": "bf7586137ed8281274ee326068064cb3"
 }

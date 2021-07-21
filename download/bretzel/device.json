@@ -3,13 +3,13 @@
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1621102690.9957445,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-bretzel-20210515-1258.zip",
+    "datetime": 1626770907.1019993,
+    "filename": "RevengeOS-4.1-R-OFFICIAL-bretzel-20210715-2103.zip",
     "id": "",
-    "size": "625953252",
-    "url": "https://sourceforge.net/projects/revengeos/files/bretzel/RevengeOS-4.0-R-OFFICIAL-bretzel-20210515-1258.zip",
+    "size": "657861551",
+    "url": "https://sourceforge.net/projects/revengeos/files/bretzel/RevengeOS-4.1-R-OFFICIAL-bretzel-20210715-2103.zip",
     "download_new": "https://download.revengeos.com/download/bretzel",
     "clean_flash": "no",
-    "version": "4.0",
-    "filehash": "9bd4811a6106e8abbfe3903a4bbfe7b4"
+    "version": "4.1",
+    "filehash": "16246ad783e1765041263277d762b8a3"
 }

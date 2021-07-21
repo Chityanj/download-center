@@ -1,1 +1,10 @@
-First release
+New bootanimation
+New wallpapers
+Reset battery stats
+Battery stats no longer auto reset on reboot
+Reticker (staging; untested)
+Long screenshot
+OxygenOS white FOD icon
+Toggle screenshot shutter sound
+Face unlock [supports third party apps too]
+July Security Patch

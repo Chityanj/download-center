@@ -1,2 +1,1 @@
-Make ADB works better
-Disable blur (Now device goes faster)
+July security patch!

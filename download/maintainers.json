@@ -1,4 +1,18 @@
 {
+    "bardock": {
+        "brand": "bq",
+        "name": "Aquaris X",
+        "maintainer": "jmpfbmx",
+        "telegram": "jmpf_bmx",
+        "xda_thread": ""
+    },
+    "bardockpro": {
+        "brand": "bq",
+        "name": "Aquaris X Pro",
+        "maintainer": "jmpfbmx",
+        "telegram": "jmpf_bmx",
+        "xda_thread": ""
+    },
     "beryllium": {
         "brand": "Poco",
         "name": "F1",
@@ -53,7 +67,7 @@
         "name": "Mi A2 Lite",
         "maintainer": "Proxer05",
         "telegram": "proxer05",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-revengeos-4-0-xiaomi-mi-a2-lite-daisy-official.4295271"
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-revengeos-4-0-xiaomi-mi-a2-lite-daisy-official.4291095"
     },
     "guacamole": {
     	"brand": "OnePlus",

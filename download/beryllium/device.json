@@ -3,13 +3,13 @@
     "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1623747635.6068487,
-    "filename": "RevengeOS-4.0-R-OFFICIAL-beryllium-20210615-0806.zip",
+    "datetime": 1626493036.7891293,
+    "filename": "RevengeOS-4.1-R-OFFICIAL-beryllium-20210716-0624.zip",
     "id": "",
-    "size": "914337259",
-    "url": "https://sourceforge.net/projects/revengeos/files/beryllium/RevengeOS-4.0-R-OFFICIAL-beryllium-20210615-0806.zip",
+    "size": "950538324",
+    "url": "https://sourceforge.net/projects/revengeos/files/beryllium/RevengeOS-4.1-R-OFFICIAL-beryllium-20210716-0624.zip",
     "download_new": "https://download.revengeos.com/download/beryllium",
-    "clean_flash": "yes",
-    "version": "4.0",
-    "filehash": "78dc9e91f537560f029218cdd90a0140"
+    "clean_flash": "no",
+    "version": "4.1",
+    "filehash": "323ff34abda7fbb473c836f98f5e7d8b"
 }

@@ -1,6 +1,5 @@
-Fixed night light
-Update build fingerprint to June redfin
-Tuned top-app schedtune boost from coral
-Updated MiuiCamera
-Upstreamed kernel to v4.4.272
-Switch to Chips kernel Energy model (Tuned for sdm636)
+Initial 4.19 Official build
+Fixed WFD
+Enforcing SElinux
+Use pixel AIDL powerhal
+July redfin fp

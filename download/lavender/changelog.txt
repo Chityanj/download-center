@@ -1,1 +1,11 @@
-Initial build based on LineageOS trees 
+Initial bringup for kernel 4.19
+Kernel: 4.19.195-Predator Stormbreaker v1.8
+Update graphics blobs from taimen RP1A.201005.004
+Update some radio and telephony blobs from LA.UM.9.6.2.r1-04100-89xx.0
+Update RIL from AOSPA (Radio from LA.UM.9.12.r1-10800-SMxx50.0-AOSPA and Telephony from qcom-common-AOSPA)
+sepolicy: Update sepolicy for 4.19
+Switch to Thermal 2.0 mock
+Force FDE encryption for A-target/lavender
+Checkout CarrierConfig to LA.UM.9.1.r1-07300-SMxxx0.0
+Update blobs from LA.UM.8.2.1.r1-05600-sdm660
+Add QTI vibrator from commit 8f97a4a856fe8b75d61a94c29a1fbc38b9d6b0fd
