@@ -139,6 +139,8 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+               <h1>BQ</h1>
+               <div id="bq"></div>
                <h1>Google</h1>
                <div id="google"></div>
                <h1>LeEco</h1>
