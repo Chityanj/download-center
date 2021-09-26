@@ -1,20 +1,20 @@
 {
     "bardock": {
-        "brand": "bq",
+        "brand": "BQ",
         "name": "Aquaris X",
         "maintainer": "jmpfbmx",
         "telegram": "jmpf_bmx",
-        "xda_thread": ""
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-1-for-bq-aquaris-x-and-x-pro-aka-bardock-bardockpro.4319843/"
     },
     "bardockpro": {
-        "brand": "bq",
+        "brand": "BQ",
         "name": "Aquaris X Pro",
         "maintainer": "jmpfbmx",
         "telegram": "jmpf_bmx",
-        "xda_thread": ""
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-1-for-bq-aquaris-x-and-x-pro-aka-bardock-bardockpro.4319843/"
     },
     "beryllium": {
-        "brand": "Poco",
+        "brand": "POCO",
         "name": "F1",
         "maintainer": "ThunderkeX",
         "telegram": "ThunderkeXxX",
@@ -71,7 +71,7 @@
     },
     "guacamole": {
     	"brand": "OnePlus",
-        "name": "OnePlus 7 Pro",
+        "name": "7 Pro",
         "maintainer": "Flawn",
         "telegram": "@fl4wn",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-guacamole-revengeos-4-0-1-11-2020.4177515/"    
@@ -120,7 +120,7 @@
     },
     "RMX2001": {
         "brand": "Realme",
-        "name": "Realme 6 (G90T series)",
+        "name": "6 (G90T series)",
         "maintainer": "nero",
         "telegram": "bx2nero",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-rmx2001-revengeos-4-1-r-16-7-2021.4281335/"
@@ -134,7 +134,7 @@
     },
     "surya": {
         "brand": "POCO",
-        "name": "Poco X3 NFC",
+        "name": "POCO X3 NFC",
         "maintainer": "Reza Bagas Rifaldy",
         "telegram": "GrettoRosella",
         "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-11-0-revengeos-poco-x3-nfc-surya-official.4243715"
@@ -180,5 +180,40 @@
         "maintainer": "Zhenxiang Chen",
         "telegram": "pasta_con_tonno",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"
+    },
+	"X01BD": {
+        "brand": "Asus",
+        "name": "Max Pro M2",
+        "maintainer": "Puneet Gautam",
+        "telegram": "jartinup",
+        "xda_thread": "https://forum.xda-developers.com/t/unofficial-revenge-os-4-1r-vanilla-android-11-asus-max-pro-m2-x01bd.4324017/"
+    },
+    "pine": {
+        "brand": "Xiaomi",
+        "name": "Redmi 7A",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "me_cafebabe",
+        "xda_thread": ""
+    },
+    "olives": {
+        "brand": "Xiaomi",
+        "name": "Redmi 8 Series",
+        "maintainer": "0xCAFEBABE, ChuckDXD",
+        "telegram": "me_cafebabe, ChuckDXD",
+        "xda_thread": ""
+    },
+    "rova": {
+        "brand": "Xiaomi",
+        "name": "Redmi 4A / 5A",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "me_cafebabe",
+        "xda_thread": ""
+    },
+    "tiare": {
+        "brand": "Xiaomi",
+        "name": "Redmi Go",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "me_cafebabe",
+        "xda_thread": ""
     }
 }

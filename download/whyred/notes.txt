@@ -1,1 +1,2 @@
-Huge thanks to EdwinMoq, SebaUbuntu, and Kenny3fcb for their works!
+LED vibrator requires kernel support, ask to your kernel developer to add support of it
+Snapcam use 4K resolution by default and breaks video recording, switch to 1080p

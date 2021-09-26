@@ -1,2 +1,2 @@
-fixed brightness not being controllable
-switched to VantomBE kernel
+Fixed Stereo Audio from bottom firing device speaker
+Fixed popup camera sounds

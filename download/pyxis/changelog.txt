@@ -1,10 +1,4 @@
-New bootanimation
-New wallpapers
-Reset battery stats
-Battery stats no longer auto reset on reboot
-Reticker (staging; untested)
-Long screenshot
-OxygenOS white FOD icon
-Toggle screenshot shutter sound
-Face unlock [supports third party apps too]
-July Security Patch
+September Security Patch.
+Updated Device FP to redfin September.
+Improved status bar corner padding.
+Small updates and clean-ups in device tree & kernel.

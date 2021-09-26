@@ -1,5 +1,5 @@
-Initial Official Build
-Synced latest Sleepy Kernel sources
-Fixed the remaining fingerprint issues
-Downgraded some blobs and HALs to Q(WFD is dead)
-More misc changes
+- Merged September security patch
+- Switched to R Audio HAL
+- Fixed Dirac and added Mi Sound Enhancer
+- Added back option to enable blur
+- Misc changes and improvements

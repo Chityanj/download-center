@@ -1,3 +1,0 @@
-Latest q firmware required
-Dirty flash possible
-Enable multitouch by disabling swipe to screenshot

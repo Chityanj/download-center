@@ -1,9 +1,6 @@
-July Security Patch
-Source Upstream
-Added Performance Profile
-Fixed CTS fail (Now SafetyNet passes out of the box)
-Fixed ScreenRecorder
-Fixed Battery Health
-Updated Gcam-Go
-Updated Device Build FP to redfin July
-Improved App-launch time and other improvements.
+September Security Patch.
+Updated Device FP to redfin September.
+Improved Memory management.
+Improved Zram.
+Improved status bar padding.
+

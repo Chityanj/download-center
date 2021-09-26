@@ -1,1 +1,2 @@
-Update fp and description to redfin july
+Kernel upstream to 4.4.281
+Cleaned up device trees

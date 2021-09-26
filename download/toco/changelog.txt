@@ -1,9 +1,7 @@
-Bump to July patch
-Ship upstreamed VantomKernel 4.14.239
-Better charging speeds (use original cable)
-FOD improvements
-Rework init to pass safetynet without Magisk
-Fix "OK Google" detection
-Import HVDCP props from stock
-Fix low brightness
-Update Firmware requirements
+Bump to September security patch
+Update required firmware level
+Ship VantomKernel 4.14.246
+Address some denial
+Update common vendor blobs from sweet V12.5.6.0.RKFMIXM
+Update toco vendor blobs from MIUI 12.5.2.0
+Build kernel with proton clang

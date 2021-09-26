@@ -1,0 +1,1 @@
+Disable Swipe to Screenshot to solve multitouch issue

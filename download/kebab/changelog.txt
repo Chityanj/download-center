@@ -1,3 +1,5 @@
-Fix GAPPs error.
-Set refresh rate to 120Hz by default.
-Improve status bar padding and alignment.
+August Security Patch
+FOD is working again
+Add some overlay changes
+Add OnePlus Settings
+

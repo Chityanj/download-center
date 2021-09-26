@@ -1,0 +1,4 @@
+- Dirty flash possible!
+- This build supports Project Treble and VNDK30 is bundled along with it
+- SafetyNet CTS passes even without Magisk
+- File-Based Encryption enabled by default

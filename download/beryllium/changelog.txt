@@ -1,14 +1,8 @@
-July security patch
-Updated boot animation in consistency with RevengeOS design - language
-Brand new default wallpapers from @pseudo_nerd
-Reset battery stats option 
-Battery stats no longer auto reset on reboot
-Samsung's OneUI style brief notifications (Reticker) 
-Long screenshot option (using Asus's implementation) 
-White FOD icon from OxygenOS
-Toggle screenshot shutter sound (finally!) 
-Face unlock with built in support for authentication with third party apps
-Update fp and description to redfin july
-fingerprint added
-Vanilla/non gapps build
-Some under the hood changes + fix
+September security patch
+Update Redfin's fingerprint to September
+Fix screenrecord lag
+Update ESE, PerMgr and Time services blobs to OnePlus6 R
+Update IRQ balance blobs to OnePlus6 R
+Enable pre-rendering
+allow gms to access persistent data partition
+Other improvements and misc changes

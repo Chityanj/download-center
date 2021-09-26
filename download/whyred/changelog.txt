@@ -1,5 +1,6 @@
-Initial 4.19 Official build
-Fixed WFD
-Enforcing SElinux
-Use pixel AIDL powerhal
-July redfin fp
+Rebased device tree to latest lineage
+Switch to AOSP WFD
+Dex2oat optimization
+Switch to LED AIDL qti vibrator
+Switch to SnapCamera
+Some update on kernel
