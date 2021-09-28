@@ -1,0 +1,1 @@
+Initial official build (As the device has just 1GB RAM, it may gonna take longer time to boot)

@@ -1,1 +1,8 @@
-August security patch!
+- Drop QCOM WFD
+- Configure zram on every device
+- Increase ro.lmk.medium
+- Switch lmkd to use minfree levels
+- Set lmkd configuration properties
+- Set lmkd.reinit property from vendor init
+- Upstream Kernel to 4.9.279
+- September Security Patch
